@@ -3,7 +3,7 @@ import fnmatch
 import fileinput
 
 # github this
-#an update 
+#an update
 
 
 with open('work_attendance.txt',"r") as f, open("outfile.txt","w") as outfile:
