@@ -3,6 +3,8 @@ import fnmatch
 import fileinput
 import math
 
+#local
+
 #strip blank lines and output to outfile.txt
 with open('work_attendance.txt',"r") as f, open("outfile.txt","w") as outfile:
  for i in f.readlines():
