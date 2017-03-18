@@ -2,11 +2,6 @@ import re
 import fnmatch
 import fileinput
 
-#make changes branch
-
-#master change
-
-
 with open('work_attendance.txt',"r") as f, open("outfile.txt","w") as outfile:
 #if blank line, delete the line for all lines, then write the output file
  for i in f.readlines():
