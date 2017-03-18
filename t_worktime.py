@@ -2,7 +2,8 @@ import re
 import fnmatch
 import fileinput
 
-# github t
+# github this
+
 
 with open('work_attendance.txt',"r") as f, open("outfile.txt","w") as outfile:
 #if blank line, delete the line for all lines, then write the output file
