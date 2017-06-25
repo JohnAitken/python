@@ -74,3 +74,7 @@ else:
 
 print 'Av start time: ',morn_hr,':',morn_min,'AM'
 print 'Av quit time: ',aft_hr,':',aft_min,'PM'
+print results
+print Mornings
+print av
+print a
