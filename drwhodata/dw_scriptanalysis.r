@@ -6,5 +6,3 @@ count_1 <- pd %>%
     filter(episodeid == "20-1")
 
 
-
-print(count_1)
