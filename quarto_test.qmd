@@ -1,9 +1,14 @@
+
 ---
-title: "Hello, Quarto"
-format: html
+title: "Quarto Basics"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+
 ---
 
-## Markdown
+# Markdown
 
 Markdown is an easy to read and write text format:
 
@@ -11,7 +16,7 @@ Markdown is an easy to read and write text format:
 - It can be **rendered** into HTML, PDF, and more
 - Learn more at: <https://quarto.org/docs/authoring/>
 
-## Code Cell
+## Code Cells
 
 Here is a Python code cell:
 
@@ -24,6 +29,120 @@ os.cpu_count()
 
 Use LaTeX to write equations:
 
+inline math: $E = mc^{2}$
+
+display math:
+
+$$E = mc^{2}$$
+
 $$
-\chi' = \sum_{i=1}^n k_i s_i^2
+\begin{align}
+  \tag{1.1}
+  V_{sphere} = \frac{4}{3}\pi r^3
+\end{align}
 $$
+
+
+## Mermaid
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+# Plot examples
+For a demonstration of a line plot on a polar axis, see @fig-polar.
+
+```{python}
+#| label: fig-polar
+#| fig-cap: "A line plot on a polar axis"
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+r = np.arange(0, 2, 0.01)
+theta = 2 * np.pi * r
+fig, ax = plt.subplots(
+  subplot_kw = {'projection': 'polar'} 
+)
+ax.plot(theta, r)
+ax.set_rticks([0.5, 1, 1.5, 2])
+ax.grid(True)
+plt.show()
+```
+
+## NumPy
+
+```{python}
+import numpy as np
+a = np.arange(15).reshape(3, 5)
+a
+```
+
+## Matplotlib
+
+```{python}
+import matplotlib.pyplot as plt
+
+fig = plt.figure()
+x = np.arange(10)
+y = 2.5 * np.sin(x / 20 * np.pi)
+yerr = np.linspace(0.05, 0.2, 10)
+
+plt.errorbar(x, y + 3, yerr=yerr, label='both limits (default)')
+plt.errorbar(x, y + 2, yerr=yerr, uplims=True, label='uplims=True')
+plt.errorbar(x, y + 1, yerr=yerr, uplims=True, lolims=True,
+             label='uplims=True, lolims=True')
+
+upperlimits = [True, False] * 5
+lowerlimits = [False, True] * 5
+plt.errorbar(x, y, yerr=yerr, uplims=upperlimits, lolims=lowerlimits,
+             label='subsets of uplims and lolims')
+
+plt.legend(loc='lower right')
+plt.show(fig)
+```
+
+## Plotly
+
+```{python}
+import plotly.express as px
+import plotly.io as pio
+gapminder = px.data.gapminder()
+gapminder2007 = gapminder.query("year == 2007")
+fig = px.scatter(gapminder2007, 
+                 x="gdpPercap", y="lifeExp", color="continent", 
+                 size="pop", size_max=60,
+                 hover_name="country")
+fig.show()
+```
+
+# Callouts
+
+::: {.callout-note}
+Note that there are five types of callouts, including:
+`note`, `tip`, `warning`, `caution`, and `important`.
+:::
+
+::: {.callout-tip}
+## Tip with Title
+
+This is an example of a callout with a title.
+:::
+
+::: {.callout-caution collapse="true"}
+## Expand To Learn About Collapse
+
+This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
+:::
+
+::: {.callout-note appearance="simple"}
+
+## Pay Attention
+
+Using callouts is an effective way to highlight content that your reader give special consideration or attention.
+
+:::
+
