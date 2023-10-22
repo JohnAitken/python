@@ -49,6 +49,6 @@ randomize_button.pack()
 
 # Initial randomization
 randomize_and_select()
-
+ 
 # Start the main GUI loop
 root.mainloop()
