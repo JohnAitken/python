@@ -44,7 +44,7 @@ hyperlink = tk.Label(root, text='', fg='blue')
 hyperlink.pack()
 
 # Add a button to re-randomize
-randomize_button = tk.Button(root, text='Re-Randomize', command=randomize_and_select)
+randomize_button = tk.Button(root, text='Re-Randomise', command=randomize_and_select)
 randomize_button.pack()
 
 # Initial randomization
