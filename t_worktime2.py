@@ -1,44 +1,35 @@
 import re
-import fnmatch
-import fileinput
-import math
 
-#local
+with open('work_attendance.txt', "r") as f, open("outfile.txt", "w") as outfile:
+    for line in f:
+        if line.strip():
+            outfile.write(line)
 
-#strip blank lines and output to outfile.txt
-with open('work_attendance.txt',"r") as f, open("outfile.txt","w") as outfile:
- for i in f.readlines():
-       if not i.strip():
-           continue
-       if i:
-           outfile.write(i)
-f.close()
 results = []
-with open('outfile.txt','r') as o:
-    for line in o:
-        #strip out the last 9 chars - the time plus extra chars
-        results.append(line[-9:])
-o.close()
-#remove extra chars
-results = [x.strip(' \n') for x in results]
-Afternoons = fnmatch.filter(results, '*PM')
-Mornings = fnmatch.filter(results, '*AM')
 
+with open('outfile.txt', 'r') as o:
+    results = [line[-9:].strip() for line in o]
 
+mornings = [x[:-2].rstrip() for x in results if x.endswith("AM")]
+afternoons = [x[:-2].rstrip() for x in results if x.endswith("PM")]
 
-def average_time(timeperiod):
-    av1 = [x[:-2].rstrip() for x in timeperiod]
-    av2 = [y.split(':') for y in av1]
-    avlen= len(av2)
-    avsecs=[]
-    for x in range(y):
-        a=int(av2[x][0]) * 3600
-        b=int(av2[x][1]) * 60
-        c=a+b
-        return avsecs.append(c)
+def time_to_seconds(time_str):
+    hours, minutes = map(int, time_str.split(':'))
+    return hours * 3600 + minutes * 60
 
+mornings_seconds = [time_to_seconds(time) for time in mornings]
+afternoons_seconds = [time_to_seconds(time) for time in afternoons]
 
-average_time(Mornings)
-print average_time
+mornings_average = sum(mornings_seconds) / len(mornings_seconds) if mornings_seconds else 0
+afternoons_average = sum(afternoons_seconds) / len(afternoons_seconds) if afternoons_seconds else 0
 
-#av= sum(secs)/(len(secs)*1.0
+morn_hr, morn_min = divmod(mornings_average, 3600)
+aft_hr, aft_min = divmod(afternoons_average, 3600)
+morn_min = morn_min // 60
+aft_min = aft_min // 60
+
+morn_min_str = f"{morn_min:02}"
+aft_min_str = f"{aft_min:02}"
+
+print(f'Average start time: {morn_hr}:{morn_min_str} AM')
+print(f'Average quit time: {aft_hr}:{aft_min_str} PM')
