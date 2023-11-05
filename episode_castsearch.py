@@ -20,11 +20,11 @@ filtered_df = jd[jd['title'] == filter_value]
 if not filtered_df.empty:
     print("Episode summary")
     filtered_df_1 = filtered_df.iloc[:1].drop(['role', 'name'], axis=1)
-    print(tabulate(filtered_df_1, headers='keys', tablefmt='fancy_grid'))
+    print(tabulate(filtered_df_1, headers='keys', tablefmt='grid'))
 
     # Display the 'name' and 'role' columns for the entire filtered DataFrame
     print("\nThe Cast:")
-    filtered_df_2 = filtered_df[['name', 'role']]
+    filtered_df_2 = filtered_df[['role', 'name']]
     print(tabulate(filtered_df_2, headers='keys', tablefmt='fancy_grid'))
 else:
     print(f"No rows found with title equal to {filter_value}")
