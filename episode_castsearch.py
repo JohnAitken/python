@@ -10,7 +10,7 @@ jd = pd.merge(dwguide, castlist, how="left", on="episodenbr")
 # Ask the user for the value to filter by (and convert it to lowercase)
 filter_value = input("Enter the value to filter by: ").lower()
 
-# Convert the values in the 'Name' column to lowercase for case-insensitive comparison
+# Convert the values in the 'title' column to lowercase for case-insensitive comparison
 jd['title'] = jd['title'].str.lower()
 
 # Filter the DataFrame while ignoring case differences
