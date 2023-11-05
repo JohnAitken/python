@@ -13,6 +13,12 @@ filter_value = input("Enter the value to filter by: ").lower()
 # Convert the values in the 'title' column to lowercase for case-insensitive comparison
 jd['title'] = jd['title'].str.lower()
 
+# Specify the path for the output CSV file
+output_file = "master_list.csv"
+
+# Export the 'jd' DataFrame to the CSV file
+jd.to_csv(output_file, index=False)
+
 # Filter the DataFrame while ignoring case differences
 filtered_df = jd[jd['title'] == filter_value]
 
