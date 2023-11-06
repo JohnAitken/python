@@ -1,5 +1,5 @@
 import pandas as pd
-from flask import Flask, request, render_template_string
+from flask import Flask, request, render_template_string, redirect, url_for
 from fuzzywuzzy import fuzz
 
 app = Flask(__name__)
@@ -8,7 +8,7 @@ app = Flask(__name__)
 def find_similar_titles(user_input, df):
     title_choices = df['title'].tolist()
     similar_titles = [title for title in title_choices if fuzz.partial_ratio(user_input, title) >= 80]
-    return similar_titles
+    return set(similar_titles)  # Use a set to store unique titles
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
@@ -22,7 +22,7 @@ def index():
 
     script = """
     <script>
-        function setFilterValue(value) {
+        function setFilterValueAndSubmit(value) {
             document.getElementById('filter_value').value = value;
         }
     </script>
@@ -48,20 +48,15 @@ def index():
             combined_output = search_form + details_output + summary_output + cast_output
         else:
             similar_titles = find_similar_titles(filter_value, jd)
-            unique_similar_titles = []
 
             if similar_titles:
-                for title in similar_titles:
-                    if title not in unique_similar_titles:
-                        unique_similar_titles.append(title)
-
                 similar_titles_list = "<p>Similar titles:</p><ul>"
-                for title in unique_similar_titles:
-                    similar_titles_list += f"<li><a href='javascript:setFilterValue(\"{title}\")'>{title}</a></li>"
+                for title in similar_titles:
+                    similar_titles_list += f"<li><a href='#' onclick='setFilterValueAndSubmit(\"{title}\")'>{title}</a></li>"
                 similar_titles_list += "</ul>"
                 combined_output = search_form + f"No exact match found for '{filter_value}'. {similar_titles_list}"
             else:
-                combined_output = search_form + f"No rows found with a title similar to '{filter_value}'."
+                combined_output = search_form + f"No rows found with a title similar to '{filter_value}'"
 
         return render_template_string(combined_output + script)
 
