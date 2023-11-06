@@ -15,9 +15,17 @@ def index():
     search_form = """
     <form method="POST">
         <label for="filter_value">Enter a title:</label>
-        <input type="text" name="filter_value">
+        <input type="text" name="filter_value" id="filter_value">
         <input type="submit" value="Search">
     </form>
+    """
+
+    script = """
+    <script>
+        function setFilterValue(value) {
+            document.getElementById('filter_value').value = value;
+        }
+    </script>
     """
 
     if request.method == 'POST':
@@ -40,27 +48,24 @@ def index():
             combined_output = search_form + details_output + summary_output + cast_output
         else:
             similar_titles = find_similar_titles(filter_value, jd)
+            unique_similar_titles = []
 
             if similar_titles:
-                unique_similar_titles = set()  # Use a set to store unique titles
+                for title in similar_titles:
+                    if title not in unique_similar_titles:
+                        unique_similar_titles.append(title)
 
                 similar_titles_list = "<p>Similar titles:</p><ul>"
-
-                for title in similar_titles:
-                    # Check if the title is not already in the set
-                    if title not in unique_similar_titles:
-                        unique_similar_titles.add(title)
-                        # Add links that will trigger a new search
-                        similar_titles_list += f"<li><a href='?filter_value={title}'>{title}</a></li>"
-
+                for title in unique_similar_titles:
+                    similar_titles_list += f"<li><a href='javascript:setFilterValue(\"{title}\")'>{title}</a></li>"
                 similar_titles_list += "</ul>"
                 combined_output = search_form + f"No exact match found for '{filter_value}'. {similar_titles_list}"
             else:
-                combined_output = search_form + f"No rows found with a title similar to '{filter_value}'"
+                combined_output = search_form + f"No rows found with a title similar to '{filter_value}'."
 
-        return render_template_string(combined_output)
+        return render_template_string(combined_output + script)
 
-    return search_form
+    return search_form + script
 
 if __name__ == '__main__':
     dwguide = pd.read_csv("dwguide_clean.csv")
