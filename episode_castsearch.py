@@ -40,21 +40,24 @@ def index():
             combined_output = search_form + details_output + summary_output + cast_output
         else:
             similar_titles = find_similar_titles(filter_value, jd)
-            unique_similar_titles = []
-    
+
             if similar_titles:
-                for title in similar_titles:
-                    if title not in unique_similar_titles:
-                        unique_similar_titles.append(title)
+                unique_similar_titles = set()  # Use a set to store unique titles
 
                 similar_titles_list = "<p>Similar titles:</p><ul>"
-                for title in unique_similar_titles:
-                    similar_titles_list += f"<li>{title}</li>"
+
+                for title in similar_titles:
+                    # Check if the title is not already in the set
+                    if title not in unique_similar_titles:
+                        unique_similar_titles.add(title)
+                        # Add links that will trigger a new search
+                        similar_titles_list += f"<li><a href='?filter_value={title}'>{title}</a></li>"
+
                 similar_titles_list += "</ul>"
                 combined_output = search_form + f"No exact match found for '{filter_value}'. {similar_titles_list}"
             else:
-                combined_output = search_form + f"No rows found with a title similar to '{filter_value}'."
-            
+                combined_output = search_form + f"No rows found with a title similar to '{filter_value}'"
+
         return render_template_string(combined_output)
 
     return search_form
