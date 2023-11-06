@@ -18,8 +18,12 @@ filtered_df = jd[jd['title'] == filter_value]
 
 # Display the first row of the filtered DataFrame (excluding 'role' and 'name' columns)
 if not filtered_df.empty:
-    print("Episode summary")
-    filtered_df_1 = filtered_df.iloc[:1].drop(['role', 'name'], axis=1)
+    print("Episode Details")
+    filtered_df_1 = filtered_df.iloc[:1].drop(['role', 'name', 'summary'], axis=1)
+    print(tabulate(filtered_df_1, headers='keys', tablefmt='grid'))
+    
+    print("\nEpisode summary")
+    filtered_df_1 = filtered_df[['summary']].head(1)
     print(tabulate(filtered_df_1, headers='keys', tablefmt='grid'))
 
     # Display the 'name' and 'role' columns for the entire filtered DataFrame
