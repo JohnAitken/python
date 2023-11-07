@@ -68,3 +68,42 @@ if __name__ == '__main__':
     jd = pd.merge(dwguide, castlist, how="left", on="episodenbr")
 
     app.run(debug=True)
+
+
+# This code is a Python script that uses the Flask web framework and the FuzzyWuzzy library to create a simple web application for searching and displaying information about episodes of a TV show. Here's a detailed explanation of the code:
+
+#     Importing libraries and modules:
+#         import pandas as pd: This imports the Pandas library and gives it the alias 'pd,' which is commonly used to work with data in tabular form.
+#         from flask import Flask, request, render_template_string, redirect, url_for: This imports various functions and classes from the Flask library, including Flask (the web application framework), request (for handling HTTP requests), render_template_string (for rendering HTML templates), and others.
+#         from fuzzywuzzy import fuzz: This imports the fuzz function from the FuzzyWuzzy library, which is used for fuzzy string matching.
+
+#     Creating a Flask application:
+#         app = Flask(__name__): This initializes a Flask web application. The __name__ variable is set to the name of the current module, which is used to determine the root path for the application.
+
+#     Defining a function to find similar titles:
+#         find_similar_titles(user_input, df): This is a custom function that takes user input (a string) and a Pandas DataFrame df as input. It uses FuzzyWuzzy's fuzz.partial_ratio function to find titles in the DataFrame that are similar to the user input. It returns a set of similar titles to ensure uniqueness.
+
+#     Creating a route for the root URL ("/"):
+#         @app.route('/', methods=['GET', 'POST']): This is a Flask route decorator that defines the behavior for both GET and POST requests to the root URL ("/").
+
+#     The index function:
+#         This function handles requests to the root URL ("/"). It performs the following tasks:
+#             Defines an HTML form for user input to search for episode titles.
+#             Checks if the request method is POST (i.e., a form submission).
+#             If the request method is POST:
+#                 Retrieves the user's input from the submitted form.
+#                 Converts the titles in the DataFrame jd to lowercase and filters it based on the user's input.
+#                 If an exact match is found, it displays episode details, summary, and cast information.
+#                 If no exact match is found, it searches for similar titles using the find_similar_titles function and provides a list of similar titles.
+#             If the request method is GET (i.e., a regular page load), it displays the search form.
+
+#     HTML templates and JavaScript:
+#         The code includes HTML and JavaScript code to define the structure of the web page. It provides a search form, displays episode details, summary, and cast information, and also allows users to click on similar titles for a new search.
+
+#     Reading and merging data:
+#         The code reads two CSV files, "dwguide_clean.csv" and "castlist.csv," into Pandas DataFrames (dwguide and castlist). These DataFrames are then merged based on a common column ("episodenbr") using the pd.merge function, creating a new DataFrame jd that contains information about episodes and their cast.
+
+#     Running the Flask application:
+#         The code checks if it's the main module and then runs the Flask application in debug mode.
+
+# When the Flask application is run, it serves as a web interface for searching and displaying information about episodes of the TV show, and it provides suggestions for similar titles if there's no exact match. The application's behavior is defined by the index function, and the HTML structure is defined within the code.
