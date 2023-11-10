@@ -1,0 +1,852 @@
+episodenbr,episode_name,weekday,broadcastdate,broadcasthour,duration,views,share,AI,chart,story_name,doctor_id,doctor_name,cast_count
+1,An Unearthly Child,Sat,23-Nov-63,5:16pm,00:23:10,4.40m,,63,114,An Unearthly Child,1,William Hartnell,13
+2,An Unearthly Child: The Cave of Skulls,Sat,30-Nov-63,5:29pm,00:24:37,5.90m,,59,85,An Unearthly Child,1,William Hartnell,28
+3,An Unearthly Child: The Forest of Fear,Sat,07-Dec-63,5:15pm,00:23:38,6.90m,,56,61,An Unearthly Child,1,William Hartnell,27
+4,An Unearthly Child: The Firemaker,Sat,14-Dec-63,5:15pm,00:24:23,6.40m,,55,70,An Unearthly Child,1,William Hartnell,28
+5,The Daleks: The Dead Planet,Sat,21-Dec-63,5:15pm,00:24:22,6.90m,,59,67,The Daleks,1,William Hartnell,6
+6,The Daleks: The Survivors,Sat,28-Dec-63,5:15pm,00:24:27,6.40m,,58,78,The Daleks,1,William Hartnell,11
+7,The Daleks: The Escape,Sat,04-Jan-64,5:15pm,00:25:10,8.90m,,62,45,The Daleks,1,William Hartnell,25
+8,The Daleks: The Ambush,Sat,11-Jan-64,5:14pm,00:24:37,9.90m,,63,29,The Daleks,1,William Hartnell,24
+9,The Daleks: The Expedition,Sat,18-Jan-64,5:15pm,00:24:31,9.90m,,63,27,The Daleks,1,William Hartnell,24
+10,The Daleks: The Ordeal,Sat,25-Jan-64,5:15pm,00:26:14,10.40m,,63,29,The Daleks,1,William Hartnell,17
+11,The Daleks: The Rescue,Sat,01-Feb-64,5:17pm,00:22:24,10.40m,,65,25,The Daleks,1,William Hartnell,24
+12,The Edge of Destruction,Sat,08-Feb-64,5:15pm,00:25:04,10.40m,,61,21,The Edge of Destruction,1,William Hartnell,4
+13,The Edge of Destruction: The Brink of Disaster,Sat,15-Feb-64,5:16pm,00:22:11,9.90m,,60,31,The Edge of Destruction,1,William Hartnell,4
+14,Marco Polo: The Roof of the World,Sat,22-Feb-64,5:15pm,00:24:12,9.40m,,63,33,Marco Polo,1,William Hartnell,14
+15,Marco Polo: The Singing Sands,Sat,29-Feb-64,5:15pm,00:26:34,9.40m,,62,33,Marco Polo,1,William Hartnell,10
+16,Marco Polo: Five Hundred Eyes,Sat,07-Mar-64,5:16pm,00:22:20,9.40m,,62,34,Marco Polo,1,William Hartnell,21
+17,Marco Polo: The Wall of Lies,Sat,14-Mar-64,5:15pm,00:24:48,9.90m,,60,31,Marco Polo,1,William Hartnell,16
+18,Marco Polo: Rider From Shang-Tu,Sat,21-Mar-64,5:16pm,00:23:26,9.40m,,59,37,Marco Polo,1,William Hartnell,22
+19,Marco Polo: Mighty Kublai Khan,Sat,28-Mar-64,5:29pm,00:25:36,8.40m,,59,49,Marco Polo,1,William Hartnell,37
+20,Marco Polo: Assassin at Peking,Sat,04-Apr-64,5:30pm,00:24:48,10.40m,,59,22,Marco Polo,1,William Hartnell,32
+21,The Keys of Marinus: The Sea of Death,Sat,11-Apr-64,5:31pm,00:23:20,9.90m,,62,22,The Keys Of Marinus,1,William Hartnell,9
+22,The Keys of Marinus: The Velvet Web,Sat,18-Apr-64,5:31pm,00:25:37,9.40m,,60,25,The Keys Of Marinus,1,William Hartnell,12
+23,The Keys of Marinus: The Screaming Jungle,Sat,25-Apr-64,5:29pm,00:23:45,9.90m,,61,22,The Keys Of Marinus,1,William Hartnell,9
+24,The Keys of Marinus: The Snows of Terror,Sat,02-May-64,5:29pm,00:24:54,10.40m,,60,20,The Keys Of Marinus,1,William Hartnell,12
+25,The Keys of Marinus: Sentence of Death,Sat,09-May-64,5:14pm,00:25:03,7.90m,,61,29,The Keys Of Marinus,1,William Hartnell,35
+26,The Keys of Marinus,Sat,16-May-64,5:17pm,00:25:11,6.90m,,63,43,The Keys Of Marinus,1,William Hartnell,14
+27,The Aztecs: The Temple of Evil,Sat,23-May-64,5:16pm,00:23:56,7.40m,,62,25,The Aztecs,1,William Hartnell,22
+28,The Aztecs: The Warriors of Death,Sat,30-May-64,5:16pm,00:24:11,7.40m,,62,34,The Aztecs,1,William Hartnell,20
+29,The Aztecs: The Bride of Sacrifice,Sat,06-Jun-64,5:14pm,00:25:27,7.90m,,57,19,The Aztecs,1,William Hartnell,17
+30,The Aztecs: The Day of Darkness,Sat,13-Jun-64,5:14pm,00:25:30,7.40m,,58,34,The Aztecs,1,William Hartnell,19
+31,The Sensorites: Strangers in Space,Sat,20-Jun-64,5:14pm,00:24:46,7.90m,,59,17,The Sensorites,1,William Hartnell,8
+32,The Sensorites: The Unwilling Warriors,Sat,27-Jun-64,5:40pm,00:24:44,6.90m,,59,39,The Sensorites,1,William Hartnell,9
+33,The Sensorites: Hidden Danger,Sat,11-Jul-64,5:15pm,00:24:53,7.40m,,56,22,The Sensorites,1,William Hartnell,15
+34,The Sensorites: A Race Against Death,Sat,18-Jul-64,5:14pm,00:24:49,5.50m,,60,58,The Sensorites,1,William Hartnell,14
+35,The Sensorites: Kidnap,Sat,25-Jul-64,5:15pm,00:24:17,6.90m,,57,29,The Sensorites,1,William Hartnell,14
+36,The Sensorites: A Desperate Venture,Sat,01-Aug-64,5:14pm,00:24:29,6.90m,,57,39,The Sensorites,1,William Hartnell,14
+37,The Reign Of Terror: A Land of Fear,Sat,08-Aug-64,5:15pm,00:24:24,6.90m,,58,37,The Sensorites,1,William Hartnell,14
+38,The Reign Of Terror: Guests of Madame Guillotine,Sat,15-Aug-64,5:14pm,00:24:04,6.90m,,54,35,The Sensorites,1,William Hartnell,22
+39,The Reign Of Terror: A Change of Identity,Sat,22-Aug-64,5:29pm,00:25:23,6.90m,,55,34,The Sensorites,1,William Hartnell,22
+40,The Reign Of Terror: The Tyrant of France,Sat,29-Aug-64,5:15pm,00:24:46,6.40m,,53,36,The Sensorites,1,William Hartnell,19
+41,The Reign Of Terror: A Bargain of Necessity,Sat,05-Sep-64,5:31pm,00:23:51,6.90m,,53,39,The Sensorites,1,William Hartnell,17
+42,The Reign Of Terror: Prisoners of Conciergerie,Sat,12-Sep-64,5:29pm,00:25:04,6.40m,,55,38,Reign of Terror,1,William Hartnell,20
+43,Planet of Giants,Sat,31-Oct-64,5:13pm,00:23:15,8.40m,,57,37,Planet of Giants,1,William Hartnell,6
+44,Planet of Giants: Dangerous Journey,Sat,07-Nov-64,5:15pm,00:23:40,8.40m,,58,45,Planet of Giants,1,William Hartnell,7
+45,Planet of Giants: Crisis,Sat,14-Nov-64,5:15pm,00:26:35,8.90m,,59,33,Planet of Giants,1,William Hartnell,8
+46,The Dalek Invasion of Earth: World's End,Sat,21-Nov-64,5:40pm,00:23:42,11.40m,,63,12,The Dalek Invasion of Earth,1,William Hartnell,14
+47,The Dalek Invasion of Earth: The Daleks,Sat,28-Nov-64,5:41pm,00:24:19,12.40m,,59,10,The Dalek Invasion of Earth,1,William Hartnell,39
+48,The Dalek Invasion of Earth: Day of Reckoning,Sat,05-Dec-64,5:39pm,00:26:50,11.90m,,59,10,The Dalek Invasion of Earth,1,William Hartnell,40
+49,The Dalek Invasion of Earth: The End of Tomorrow,Sat,12-Dec-64,5:40pm,00:23:23,11.90m,,59,11,The Dalek Invasion of Earth,1,William Hartnell,21
+50,The Dalek Invasion of Earth: The Waking Ally,Sat,19-Dec-64,5:40pm,00:24:29,11.40m,,58,18,The Dalek Invasion of Earth,1,William Hartnell,37
+51,The Dalek Invasion of Earth: Flashpoint,Sat,26-Dec-64,5:58pm,00:25:21,12.40m,,60,12,The Dalek Invasion of Earth,1,William Hartnell,39
+52,The Rescue: The Powerful Enemy,Sat,02-Jan-65,5:40pm,00:26:15,12.00m,,57,11,The Rescue,1,William Hartnell,8
+53,The Rescue: Desperate Measures,Sat,09-Jan-65,5:41pm,00:24:36,13.00m,,59,8,The Rescue,1,William Hartnell,9
+54,The Romans: The Slave Traders,Sat,16-Jan-65,5:40pm,00:24:14,13.00m,,53,7,The Romans,1,William Hartnell,31
+55,The Romans: All Roads Lead to Rome,Sat,23-Jan-65,5:40pm,00:23:14,11.50m,,51,15,The Romans,1,William Hartnell,35
+56,The Romans: Conspiracy,Sat,30-Jan-65,5:39pm,00:26:18,10.00m,,50,28,The Romans,1,William Hartnell,32
+57,The Romans: Inferno,Sat,06-Feb-65,5:40pm,00:23:09,12.00m,,50,13,The Romans,1,William Hartnell,31
+58,The Web Planet,Sat,13-Feb-65,5:40pm,00:23:57,13.50m,,56,7,The Web Planet,1,William Hartnell,7
+59,The Web Planet: The Zarbi,Sat,20-Feb-65,5:40pm,00:23:20,12.50m,,53,12,The Web Planet,1,William Hartnell,14
+60,The Web Planet: Escape to Danger,Sat,27-Feb-65,5:40pm,00:22:52,12.50m,,53,11,The Web Planet,1,William Hartnell,12
+61,The Web Planet: Crater of Needles,Sat,06-Mar-65,5:39pm,00:25:50,13.00m,,49,9,The Web Planet,1,William Hartnell,22
+62,The Web Planet: Invasion,Sat,13-Mar-65,5:40pm,00:26:04,12.00m,,48,12,The Web Planet,1,William Hartnell,20
+63,The Web Planet: The Centre,Sat,20-Mar-65,5:55pm,00:24:32,11.50m,,42,14,The Web Planet,1,William Hartnell,20
+64,The Crusade: The Lion,Sat,27-Mar-65,5:42pm,00:24:56,10.50m,,51,16,The Web Planet,1,William Hartnell,22
+65,The Crusade: The Knight of Jaffa,Sat,03-Apr-65,5:42pm,00:23:28,8.50m,,50,29,The Web Planet,1,William Hartnell,21
+66,The Crusade: The Wheel of Fortune,Sat,10-Apr-65,5:41pm,00:24:51,9.00m,,49,32,The Web Planet,1,William Hartnell,25
+67,The Crusade: The Warlords,Sat,17-Apr-65,5:40pm,00:23:40,9.50m,,49,27,The Web Planet,1,William Hartnell,22
+68,The Space Museum,Sat,24-Apr-65,5:41pm,00:23:38,10.50m,,61,16,The Space Museum,1,William Hartnell,10
+69,The Space Museum: The Dimensions of Time,Sat,01-May-65,5:54pm,00:22:00,9.20m,,53,23,The Space Museum,1,William Hartnell,12
+70,The Space Museum: The Search,Sat,08-May-65,6:00pm,00:23:33,8.50m,,56,22,The Space Museum,1,William Hartnell,19
+71,The Space Museum: The Final Phase,Sat,15-May-65,5:40pm,00:22:15,8.50m,,49,27,The Space Museum,1,William Hartnell,20
+72,The Chase: The Executioners,Sat,22-May-65,5:41pm,00:25:25,10.00m,,57,14,The Chase,1,William Hartnell,22
+73,The Chase: The Death of Time,Sat,29-May-65,5:40pm,00:23:32,9.50m,,56,12,The Chase,1,William Hartnell,17
+74,The Chase: Flight Through Eternity,Sat,05-Jun-65,5:46pm,00:25:32,9.00m,,55,12,The Chase,1,William Hartnell,31
+75,The Chase: Journey into Terror,Sat,12-Jun-65,5:40pm,00:23:49,9.50m,,54,8,The Chase,1,William Hartnell,14
+76,The Chase: The Death of Doctor Who,Sat,19-Jun-65,5:41pm,00:23:27,9.00m,,56,11,The Chase,1,William Hartnell,15
+77,The Chase: The Planet of Decision,Sat,26-Jun-65,5:40pm,00:26:29,9.50m,,57,7,The Chase,1,William Hartnell,16
+78,The Time Meddler: The Watcher,Sat,03-Jul-65,6:54pm,00:24:05,8.90m,,57,15,The Time Meddler,1,William Hartnell,8
+79,The Time Meddler: The Meddling Monk,Sat,10-Jul-65,5:39pm,00:25:17,8.80m,,49,19,The Time Meddler,1,William Hartnell,15
+80,The Time Meddler: A Battle of Wits,Sat,17-Jul-65,5:40pm,00:24:10,7.70m,,53,28,The Time Meddler,1,William Hartnell,9
+81,The Time Meddler: Checkmate,Sat,24-Jul-65,5:40pm,00:24:00,8.30m,,54,24,The Time Meddler,1,William Hartnell,17
+82,Galaxy 4: Four Hundred Dawns,Sat,11-Sep-65,5:41pm,00:22:21,9.00m,,56,23,Galaxy Four,1,William Hartnell,10
+83,Galaxy 4: Trap of Steel,Sat,18-Sep-65,5:50pm,00:24:51,9.50m,,54,22,Galaxy Four,1,William Hartnell,9
+84,Galaxy 4: Air Lock,Sat,25-Sep-65,5:52pm,00:24:19,11.30m,,54,13,Galaxy Four,1,William Hartnell,12
+85,Galaxy 4: The Exploding Planet,Sat,02-Oct-65,5:50pm,00:24:47,9.90m,,53,20,Galaxy Four,1,William Hartnell,17
+86,Mission to the Unknown,Sat,09-Oct-65,5:50pm,00:24:42,8.30m,,54,37,Mission to the Unknown,1,William Hartnell,21
+87,The Myth Makers: Temple of Secrets,Sat,16-Oct-65,5:50pm,00:24:45,8.30m,,48,34,The Myth Makers,1,William Hartnell,24
+88,"The Myth Makers: Small Prophet, Quick Return",Sat,23-Oct-65,5:49pm,00:24:43,8.10m,,51,40,The Myth Makers,1,William Hartnell,29
+89,The Myth Makers: Death of a Spy,Sat,30-Oct-65,5:49pm,00:25:39,8.70m,,49,33,The Myth Makers,1,William Hartnell,27
+90,The Myth Makers: Horse of Destruction,Sat,06-Nov-65,5:50pm,00:24:25,8.30m,,52,38,The Myth Makers,1,William Hartnell,24
+91,The Daleks' Master Plan: The Nightmare Begins,Sat,13-Nov-65,5:50pm,00:22:55,9.10m,,54,35,The Myth Makers,1,William Hartnell,21
+92,The Daleks' Master Plan: Day of Armageddon,Sat,20-Nov-65,5:50pm,00:24:25,9.80m,,52,31,The Myth Makers,1,William Hartnell,20
+93,The Daleks' Master Plan: Devil's Planet,Sat,27-Nov-65,5:50pm,00:24:30,10.30m,,52,29,The Myth Makers,1,William Hartnell,20
+94,The Daleks' Master Plan: The Traitors,Sat,04-Dec-65,5:50pm,00:24:42,9.50m,,51,34,The Myth Makers,1,William Hartnell,20
+95,The Daleks' Master Plan: Counter Plot,Sat,11-Dec-65,5:51pm,00:24:03,9.90m,,53,26,The Myth Makers,1,William Hartnell,15
+96,The Daleks' Master Plan: Coronas of the Sun,Sat,18-Dec-65,5:48pm,00:24:45,9.10m,,56,40,The Myth Makers,1,William Hartnell,11
+97,The Daleks' Master Plan: The Feast of Steven,Sat,25-Dec-65,6:35pm,00:24:36,7.90m,,39,71,The Myth Makers,1,William Hartnell,26
+98,The Daleks' Master Plan: Volcano,Sat,01-Jan-66,5:51pm,00:24:42,9.60m,,49,31,The Myth Makers,1,William Hartnell,21
+99,The Daleks' Master Plan: Golden Death,Sat,08-Jan-66,5:50pm,00:24:38,9.20m,,52,43,The Myth Makers,1,William Hartnell,26
+100,The Daleks' Master Plan: Escape Switch,Sat,15-Jan-66,5:50pm,00:23:37,9.50m,,50,37,The Myth Makers,1,William Hartnell,27
+101,The Daleks' Master Plan: The Abandoned Planet,Sat,22-Jan-66,5:50pm,00:24:34,9.80m,,49,35,The Myth Makers,1,William Hartnell,14
+102,The Daleks' Master Plan: The Destruction of Time,Sat,29-Jan-66,5:50pm,00:23:31,8.60m,,57,39,The Myth Makers,1,William Hartnell,11
+103,The Massacre of St Bartholomew's Eve: War of God,Sat,05-Feb-66,5:15pm,00:24:51,8.00m,,52,45,The Massacre of St Bartholomew's Eve,1,William Hartnell,43
+104,The Massacre of St Bartholomew's Eve: The Sea Beggar,Sat,12-Feb-66,5:15pm,00:24:43,6.00m,,52,96,The Massacre of St Bartholomew's Eve,1,William Hartnell,18
+105,The Massacre of St Bartholomew's Eve: Priest of Death,Sat,19-Feb-66,5:15pm,00:24:33,5.90m,,49,92,The Massacre of St Bartholomew's Eve,1,William Hartnell,54
+106,The Massacre of St Bartholomew's Eve: Bell of Doom,Sat,26-Feb-66,5:15pm,00:25:06,5.80m,,53,94,The Massacre of St Bartholomew's Eve,1,William Hartnell,26
+107,The Ark: The Steel Sky,Sat,05-Mar-66,5:15pm,00:24:00,5.50m,,55,102,The Ark,1,William Hartnell,33
+108,The Ark: The Plague,Sat,12-Mar-66,5:15pm,00:25:00,6.90m,,56,70,The Ark,1,William Hartnell,35
+109,The Ark: The Return,Sat,19-Mar-66,5:15pm,00:24:19,6.20m,,51,85,The Ark,1,William Hartnell,30
+110,The Ark: The Bomb,Sat,26-Mar-66,5:15pm,00:24:37,7.30m,,50,71,The Ark,1,William Hartnell,29
+111,The Celestial Toymaker: The Celestial Toyroom,Sat,02-Apr-66,5:50pm,00:24:40,8.00m,,48,44,The Celestial Toymaker,1,William Hartnell,7
+112,The Celestial Toymaker: The Hall of Dolls,Sat,09-Apr-66,5:50pm,00:24:45,8.00m,,49,49,The Celestial Toymaker,1,William Hartnell,11
+113,The Celestial Toymaker: The Dancing Floor,Sat,16-Apr-66,5:49pm,00:24:10,9.40m,,44,32,The Celestial Toymaker,1,William Hartnell,11
+114,The Celestial Toymaker: The Final Test,Sat,23-Apr-66,5:50pm,00:23:57,7.80m,,43,36,The Celestial Toymaker,1,William Hartnell,5
+115,The Gunfighters: A Holiday for the Doctor,Sat,30-Apr-66,5:50pm,00:23:48,6.50m,,45,50,The Gunfighters,1,William Hartnell,16
+116,The Gunfighters: Don't Shoot the Pianist,Sat,07-May-66,5:49pm,00:23:47,6.60m,,39,45,The Gunfighters,1,William Hartnell,32
+117,The Gunfighters: Johnny Ringo,Sat,14-May-66,5:55pm,00:23:52,6.20m,,36,51,The Gunfighters,1,William Hartnell,34
+118,The Gunfighters: The O.K. Corral,Sat,21-May-66,5:51pm,00:23:53,5.70m,,30,60,The Gunfighters,1,William Hartnell,18
+119,The Savages: Episode 1,Sat,28-May-66,5:36pm,00:23:41,4.80m,,48,62,The Savages,1,William Hartnell,28
+120,The Savages: Episode 2,Sat,04-Jun-66,5:34pm,00:23:57,5.60m,,49,50,The Savages,1,William Hartnell,24
+121,The Savages: Episode 3,Sat,11-Jun-66,5:34pm,00:24:59,5.00m,,48,66,The Savages,1,William Hartnell,25
+122,The Savages: Episode 4,Sat,18-Jun-66,5:35pm,00:24:41,4.50m,,48,93,The Savages,1,William Hartnell,27
+123,The War Machines: Episode 1,Sat,25-Jun-66,5:35pm,00:24:01,5.40m,,49,71,The War Machines,1,William Hartnell,39
+124,The War Machines: Episode 2,Sat,02-Jul-66,6:56pm,00:24:00,4.70m,,45,76,The War Machines,1,William Hartnell,25
+125,The War Machines: Episode 3,Sat,09-Jul-66,5:35pm,00:23:58,5.30m,,44,62,The War Machines,1,William Hartnell,33
+126,The War Machines: Episode 4,Sat,16-Jul-66,5:16pm,00:23:11,5.50m,,39,67,The War Machines,1,William Hartnell,38
+127,The Smugglers: Episode 1,Sat,10-Sep-66,5:49pm,00:24:36,4.30m,,47,96,The Smugglers,1,William Hartnell,33
+128,The Smugglers: Episode 2,Sat,17-Sep-66,5:54pm,00:24:27,4.90m,,45,77,The Smugglers,1,William Hartnell,12
+129,The Smugglers: Episode 3,Sat,24-Sep-66,5:49pm,00:23:55,4.20m,,43,96,The Smugglers,1,William Hartnell,14
+130,The Smugglers: Episode 4,Sat,01-Oct-66,5:51pm,00:23:37,4.50m,,43,109,The Smugglers,1,William Hartnell,37
+131,The Tenth Planet: Episode 1,Sat,08-Oct-66,5:52pm,00:23:08,5.50m,,50,77,The Tenth Planet,1,William Hartnell,27
+132,The Tenth Planet: Episode 2,Sat,15-Oct-66,5:50pm,00:23:15,6.40m,,48,57,The Tenth Planet,1,William Hartnell,25
+133,The Tenth Planet: Episode 3,Sat,22-Oct-66,5:54pm,00:23:31,7.60m,,48,46,The Tenth Planet,1,William Hartnell,33
+134,The Tenth Planet: Episode 4,Sat,29-Oct-66,5:50pm,00:24:02,7.50m,,47,48,The Tenth Planet,1,William Hartnell,27
+135,The Power of the Daleks: Episode One,Sat,05-Nov-66,5:49pm,00:25:43,7.90m,,43,44,The Power of the Daleks,2,Patrick Troughton,18
+136,The Power of the Daleks: Episode Two,Sat,12-Nov-66,5:49pm,00:24:29,7.80m,,45,50,The Power of the Daleks,2,Patrick Troughton,21
+137,The Power of the Daleks: Episode Three,Sat,19-Nov-66,5:51pm,00:23:31,7.50m,,44,52,The Power of the Daleks,2,Patrick Troughton,17
+138,The Power of the Daleks: Episode Four,Sat,26-Nov-66,5:49pm,00:24:23,7.80m,,47,50,The Power of the Daleks,2,Patrick Troughton,22
+139,The Power of the Daleks: Episode Five,Sat,03-Dec-66,5:51pm,00:23:38,8.00m,,48,48,The Power of the Daleks,2,Patrick Troughton,20
+140,The Power of the Daleks: Episode Six,Sat,10-Dec-66,5:51pm,00:23:46,7.80m,,47,37,The Power of the Daleks,2,Patrick Troughton,19
+141,The Highlanders: Episode 1,Sat,17-Dec-66,5:48pm,00:24:38,6.70m,,47,67,The Highlanders,2,Patrick Troughton,22
+142,The Highlanders: Episode 2,Sat,24-Dec-66,5:50pm,00:23:41,6.80m,,46,89,The Highlanders,2,Patrick Troughton,28
+143,The Highlanders: Episode 3,Sat,31-Dec-66,5:52pm,00:22:54,7.40m,,46,68,The Highlanders,2,Patrick Troughton,38
+144,The Highlanders: Episode 4,Sat,07-Jan-67,5:50pm,00:24:19,7.30m,,47,66,The Highlanders,2,Patrick Troughton,35
+145,The Underwater Menace: Episode 1,Sat,14-Jan-67,5:49pm,00:24:18,8.30m,,48,43,The Highlanders,2,Patrick Troughton,36
+146,The Underwater Menace: Episode 2,Sat,21-Jan-67,5:51pm,00:25:00,7.50m,,46,64,The Highlanders,2,Patrick Troughton,25
+147,The Underwater Menace: Episode 3,Sat,28-Jan-67,5:51pm,00:24:09,7.10m,,45,59,The Highlanders,2,Patrick Troughton,38
+148,The Underwater Menace: Episode 4,Sat,04-Feb-67,5:50pm,00:23:20,7.00m,,47,65,The Highlanders,2,Patrick Troughton,29
+149,The Moonbase: Episode 1,Sat,11-Feb-67,5:50pm,00:24:12,8.10m,,50,56,The Moonbase,2,Patrick Troughton,21
+150,The Moonbase: Episode 2,Sat,18-Feb-67,5:51pm,00:24:42,8.90m,,49,36,The Moonbase,2,Patrick Troughton,21
+151,The Moonbase: Episode 3,Sat,25-Feb-67,5:50pm,00:26:11,8.20m,,53,49,The Moonbase,2,Patrick Troughton,29
+152,The Moonbase: Episode 4,Sat,04-Mar-67,5:51pm,00:23:28,8.10m,,58,44,The Moonbase,2,Patrick Troughton,23
+153,The Macra Terror: Episode 1,Sat,11-Mar-67,5:51pm,00:22:58,8.00m,,50,37,The Macra Terror,2,Patrick Troughton,36
+154,The Macra Terror: Episode 2,Sat,18-Mar-67,5:51pm,00:23:21,7.90m,,48,42,The Macra Terror,2,Patrick Troughton,15
+155,The Macra Terror: Episode 3,Sat,25-Mar-67,5:51pm,00:23:24,8.50m,,52,45,The Macra Terror,2,Patrick Troughton,24
+156,The Macra Terror: Episode 4,Sat,01-Apr-67,5:50pm,00:24:41,8.40m,,49,39,The Macra Terror,2,Patrick Troughton,30
+157,The Faceless Ones: Episode 1,Sat,08-Apr-67,5:50pm,00:23:47,8.00m,,51,47,The Faceless Ones,2,Patrick Troughton,25
+158,The Faceless Ones: Episode 2,Sat,15-Apr-67,5:51pm,00:25:22,6.40m,,50,70,The Faceless Ones,2,Patrick Troughton,30
+159,The Faceless Ones: Episode 3,Sat,22-Apr-67,5:50pm,00:23:10,7.90m,,53,43,The Faceless Ones,2,Patrick Troughton,26
+160,The Faceless Ones: Episode 4,Sat,29-Apr-67,5:50pm,00:24:28,6.90m,,55,62,The Faceless Ones,2,Patrick Troughton,23
+161,The Faceless Ones: Episode 5,Sat,06-May-67,5:52pm,00:23:34,7.10m,,55,39,The Faceless Ones,2,Patrick Troughton,35
+162,The Faceless Ones: Episode 6,Sat,13-May-67,5:50pm,00:23:38,8.00m,,52,33,The Faceless Ones,2,Patrick Troughton,25
+163,The Evil of the Daleks: Episode 1,Sat,20-May-67,6:00pm,00:24:07,8.10m,,51,37,The Evil of the Daleks,2,Patrick Troughton,16
+164,The Evil of the Daleks: Episode 2,Sat,27-May-67,5:50pm,00:25:13,7.50m,,51,37,The Evil of the Daleks,2,Patrick Troughton,13
+165,The Evil of the Daleks: Episode 3,Sat,03-Jun-67,5:44pm,00:24:27,6.10m,,52,61,The Evil of the Daleks,2,Patrick Troughton,13
+166,The Evil of the Daleks: Episode 4,Sat,10-Jun-67,5:45pm,00:24:43,5.30m,,51,51,The Evil of the Daleks,2,Patrick Troughton,13
+167,The Evil of the Daleks: Episode 5,Sat,17-Jun-67,5:44pm,00:25:23,5.10m,,53,62,The Evil of the Daleks,2,Patrick Troughton,14
+168,The Evil of the Daleks: Episode 6,Sat,24-Jun-67,5:45pm,00:24:48,6.80m,,49,38,The Evil of the Daleks,2,Patrick Troughton,12
+169,The Evil of the Daleks: Episode 7,Sat,01-Jul-67,6:24pm,00:24:33,6.10m,,56,50,The Evil of the Daleks,2,Patrick Troughton,13
+170,The Tomb of the Cybermen: Episode 1,Sat,02-Sep-67,5:49pm,00:23:58,6.00m,,53,57,The Tomb of the Cybermen,2,Patrick Troughton,14
+171,The Tomb of the Cybermen: Episode 2,Sat,09-Sep-67,5:50pm,00:24:44,6.40m,,52,57,The Tomb of the Cybermen,2,Patrick Troughton,20
+172,The Tomb of the Cybermen: Episode 3,Sat,16-Sep-67,5:50pm,00:24:14,7.20m,,49,38,The Tomb of the Cybermen,2,Patrick Troughton,19
+173,The Tomb of the Cybermen: Episode 4,Sat,23-Sep-67,5:50pm,00:23:22,7.40m,,50,34,The Tomb of the Cybermen,2,Patrick Troughton,20
+174,The Abominable Snowmen: Episode One,Sat,30-Sep-67,5:25pm,00:24:15,6.30m,,50,57,The Abominable Snowmen,2,Patrick Troughton,21
+175,The Abominable Snowmen: Episode Two,Sat,07-Oct-67,5:25pm,00:23:15,6.00m,,52,71,The Abominable Snowmen,2,Patrick Troughton,26
+176,The Abominable Snowmen: Episode Three,Sat,14-Oct-67,5:25pm,00:23:55,7.10m,,51,51,The Abominable Snowmen,2,Patrick Troughton,27
+177,The Abominable Snowmen: Episode Four,Sat,21-Oct-67,5:24pm,00:24:11,7.10m,,50,60,The Abominable Snowmen,2,Patrick Troughton,27
+178,The Abominable Snowmen: Episode Five,Sat,28-Oct-67,5:24pm,00:23:51,7.20m,,51,61,The Abominable Snowmen,2,Patrick Troughton,27
+179,The Abominable Snowmen: Episode Six,Sat,04-Nov-67,5:25pm,00:23:51,7.40m,,52,56,The Abominable Snowmen,2,Patrick Troughton,26
+180,The Ice Warriors: One,Sat,11-Nov-67,5:10pm,00:24:21,6.70m,,52,68,The Abominable Snowmen,2,Patrick Troughton,18
+181,The Ice Warriors: Two,Sat,18-Nov-67,5:24pm,00:24:16,7.10m,,52,71,The Abominable Snowmen,2,Patrick Troughton,14
+182,The Ice Warriors: Three,Sat,25-Nov-67,5:25pm,00:23:58,7.40m,,51,64,The Abominable Snowmen,2,Patrick Troughton,13
+183,The Ice Warriors: Four,Sat,02-Dec-67,5:25pm,00:24:23,7.30m,,51,63,The Abominable Snowmen,2,Patrick Troughton,13
+184,The Ice Warriors: Five,Sat,09-Dec-67,5:24pm,00:24:25,8.00m,,50,44,The Abominable Snowmen,2,Patrick Troughton,16
+185,The Ice Warriors: Six,Sat,16-Dec-67,5:24pm,00:23:58,7.50m,,51,59,The Abominable Snowmen,2,Patrick Troughton,15
+186,The Enemy of the World: Episode 1,Sat,23-Dec-67,5:25pm,00:23:45,6.80m,,50,89,The Enemy of the World,2,Patrick Troughton,15
+187,The Enemy of the World: Episode 2,Sat,30-Dec-67,5:26pm,00:23:48,7.60m,,49,75,The Enemy of the World,2,Patrick Troughton,17
+188,The Enemy of the World: Episode 3,Sat,06-Jan-68,5:25pm,00:23:05,7.10m,,48,79,The Enemy of the World,2,Patrick Troughton,18
+189,The Enemy of the World: Episode 4,Sat,13-Jan-68,5:25pm,00:23:46,7.80m,,49,66,The Enemy of the World,2,Patrick Troughton,31
+190,The Enemy of the World: Episode 5,Sat,20-Jan-68,5:24pm,00:24:22,6.90m,,49,73,The Enemy of the World,2,Patrick Troughton,31
+191,The Enemy of the World: Episode 6,Sat,27-Jan-68,5:26pm,00:21:41,8.30m,,52,55,The Enemy of the World,2,Patrick Troughton,33
+192,The Web of Fear: Episode 1,Sat,03-Feb-68,5:24pm,00:24:53,7.20m,,54,82,The Web of Fear,2,Patrick Troughton,17
+193,The Web of Fear: Episode 2,Sat,10-Feb-68,5:14pm,00:24:38,6.80m,,53,80,The Web of Fear,2,Patrick Troughton,18
+194,The Web of Fear: Episode 3,Sat,17-Feb-68,5:25pm,00:24:34,7.00m,,51,71,The Web of Fear,2,Patrick Troughton,17
+195,The Web of Fear: Episode 4,Sat,24-Feb-68,5:24pm,00:24:50,8.40m,,53,52,The Web of Fear,2,Patrick Troughton,15
+196,The Web of Fear: Episode 5,Sat,02-Mar-68,5:24pm,00:24:19,8.00m,,55,48,The Web of Fear,2,Patrick Troughton,10
+197,The Web of Fear: Episode 6,Sat,09-Mar-68,5:24pm,00:24:41,8.30m,,55,36,The Web of Fear,2,Patrick Troughton,13
+198,Fury From the Deep: Episode 1,Sat,16-Mar-68,5:14pm,00:24:54,8.20m,,55,46,Fury From The Deep,2,Patrick Troughton,19
+199,Fury From the Deep: Episode 2,Sat,23-Mar-68,5:15pm,00:23:08,7.90m,,55,40,Fury From The Deep,2,Patrick Troughton,17
+200,Fury From the Deep: Episode 3,Sat,30-Mar-68,5:16pm,00:20:29,7.70m,,56,47,Fury From The Deep,2,Patrick Troughton,17
+201,Fury From the Deep: Episode 4,Sat,06-Apr-68,5:15pm,00:24:17,6.60m,,56,62,Fury From The Deep,2,Patrick Troughton,20
+202,Fury From the Deep: Episode 5,Sat,13-Apr-68,5:15pm,00:23:40,5.90m,,56,73,Fury From The Deep,2,Patrick Troughton,17
+203,Fury From the Deep: Episode 6,Sat,20-Apr-68,5:15pm,00:24:24,6.90m,,57,42,Fury From The Deep,2,Patrick Troughton,22
+204,The Wheel In Space: Episode 1,Sat,27-Apr-68,5:15pm,00:23:47,7.20m,,57,40,The Wheel In Space,2,Patrick Troughton,17
+205,The Wheel In Space: Episode 2,Sat,04-May-68,5:16pm,00:22:50,6.90m,,60,59,The Wheel In Space,2,Patrick Troughton,22
+206,The Wheel In Space: Episode 3,Sat,11-May-68,5:15pm,00:24:25,7.50m,,55,40,The Wheel In Space,2,Patrick Troughton,24
+207,The Wheel In Space: Episode 4,Sat,18-May-68,6:00pm,00:24:14,8.60m,,56,28,The Wheel In Space,2,Patrick Troughton,23
+208,The Wheel In Space: Episode 5,Sat,25-May-68,5:16pm,00:21:55,6.80m,,57,44,The Wheel In Space,2,Patrick Troughton,22
+209,The Wheel In Space: Episode 6,Sat,01-Jun-68,6:06pm,00:23:10,6.50m,,62,51,The Wheel In Space,2,Patrick Troughton,21
+210,The Dominators: Episode 1,Sat,10-Aug-68,5:15pm,00:24:25,6.10m,,52,54,The Dominators,2,Patrick Troughton,18
+211,The Dominators: Episode 2,Sat,17-Aug-68,5:14pm,00:24:07,5.90m,,55,61,The Dominators,2,Patrick Troughton,23
+212,The Dominators: Episode 3,Sat,24-Aug-68,5:15pm,00:24:06,5.40m,,55,65,The Dominators,2,Patrick Troughton,21
+213,The Dominators: Episode 4,Sat,31-Aug-68,5:14pm,00:23:54,7.50m,,51,33,The Dominators,2,Patrick Troughton,20
+214,The Dominators: Episode 5,Sat,07-Sep-68,5:14pm,00:24:19,5.90m,,53,64,The Dominators,2,Patrick Troughton,14
+215,The Mind Robber: Episode 1,Sat,14-Sep-68,5:17pm,00:22:20,6.60m,,51,55,The Mind Robber,2,Patrick Troughton,8
+216,The Mind Robber: Episode 2,Sat,21-Sep-68,5:18pm,00:21:39,6.50m,,49,54,The Mind Robber,2,Patrick Troughton,17
+217,The Mind Robber: Episode 3,Sat,28-Sep-68,5:19pm,00:19:29,7.20m,,53,45,The Mind Robber,2,Patrick Troughton,12
+218,The Mind Robber: Episode 4,Sat,05-Oct-68,5:19pm,00:19:14,7.30m,,56,44,The Mind Robber,2,Patrick Troughton,11
+219,The Mind Robber: Episode 5,Sat,12-Oct-68,5:20pm,00:18:00,6.70m,,49,84,The Mind Robber,2,Patrick Troughton,24
+220,The Invasion: Episode One,Sat,02-Nov-68,5:15pm,00:24:32,7.30m,,55,55,The Invasion,2,Patrick Troughton,19
+221,The Invasion: Episode Two,Sat,09-Nov-68,5:15pm,00:24:26,7.10m,,53,55,The Invasion,2,Patrick Troughton,25
+222,The Invasion: Episode Three,Sat,16-Nov-68,5:15pm,00:23:44,7.10m,,54,66,The Invasion,2,Patrick Troughton,21
+223,The Invasion: Episode Four,Sat,23-Nov-68,5:14pm,00:24:18,6.40m,,51,73,The Invasion,2,Patrick Troughton,20
+224,The Invasion: Episode Five,Sat,30-Nov-68,5:15pm,00:23:25,6.70m,,52,67,The Invasion,2,Patrick Troughton,24
+225,The Invasion: Episode Six,Sat,07-Dec-68,5:15pm,00:23:20,6.50m,,56,72,The Invasion,2,Patrick Troughton,25
+226,The Invasion: Episode Seven,Sat,14-Dec-68,5:14pm,00:24:46,7.20m,,55,51,The Invasion,2,Patrick Troughton,30
+227,The Invasion: Episode Eight,Sat,21-Dec-68,5:15pm,00:25:03,7.00m,,53,80,The Invasion,2,Patrick Troughton,24
+228,The Krotons: Episode One,Sat,28-Dec-68,5:15pm,00:23:00,9.00m,,59,55,The Krotons,2,Patrick Troughton,28
+229,The Krotons: Episode Two,Sat,04-Jan-69,5:15pm,00:23:03,8.40m,,57,54,The Krotons,2,Patrick Troughton,20
+230,The Krotons: Episode Three,Sat,11-Jan-69,5:16pm,00:21:41,7.50m,,56,61,The Krotons,2,Patrick Troughton,23
+231,The Krotons: Episode Four,Sat,18-Jan-69,5:16pm,00:22:39,7.10m,,55,68,The Krotons,2,Patrick Troughton,22
+232,The Seeds of Death: Episode One,Sat,25-Jan-69,5:16pm,00:23:11,6.60m,,57,68,The Seeds of Death,2,Patrick Troughton,18
+233,The Seeds of Death: Episode Two,Sat,01-Feb-69,5:15pm,00:24:26,6.80m,,59,72,The Seeds of Death,2,Patrick Troughton,18
+234,The Seeds of Death: Episode Three,Sat,08-Feb-69,5:15pm,00:24:10,7.50m,,55,65,The Seeds of Death,2,Patrick Troughton,17
+235,The Seeds of Death: Episode Four,Sat,15-Feb-69,5:15pm,00:24:57,7.10m,,55,74,The Seeds of Death,2,Patrick Troughton,23
+236,The Seeds of Death: Episode Five,Sat,22-Feb-69,5:14pm,00:24:56,7.60m,,57,65,The Seeds of Death,2,Patrick Troughton,18
+237,The Seeds of Death: Episode Six,Sat,01-Mar-69,5:14pm,00:44:31,7.70m,,59,59,The Seeds of Death,2,Patrick Troughton,20
+238,The Space Pirates: Episode One,Sat,08-Mar-69,5:15pm,00:24:11,5.80m,,57,96,The Space Pirates,2,Patrick Troughton,20
+239,The Space Pirates: Episode Two,Sat,15-Mar-69,5:14pm,00:25:02,6.80m,,52,74,The Space Pirates,2,Patrick Troughton,14
+240,The Space Pirates: Episode Three,Sat,22-Mar-69,5:15pm,00:23:50,6.40m,,55,75,The Space Pirates,2,Patrick Troughton,15
+241,The Space Pirates: Episode Four,Sat,29-Mar-69,5:17pm,00:22:25,5.80m,,53,83,The Space Pirates,2,Patrick Troughton,22
+242,The Space Pirates: Episode Five,Sat,05-Apr-69,5:14pm,00:24:44,5.50m,,56,70,The Space Pirates,2,Patrick Troughton,19
+243,The Space Pirates: Episode Six,Sat,12-Apr-69,5:14pm,00:24:26,5.30m,,52,98,The Space Pirates,2,Patrick Troughton,16
+244,The War Games: Episode One,Sat,19-Apr-69,5:14pm,00:25:00,5.50m,,55,88,The War Games,2,Patrick Troughton,27
+245,The War Games: Episode Two,Sat,26-Apr-69,5:14pm,00:25:00,6.30m,,54,68,The War Games,2,Patrick Troughton,29
+246,The War Games: Episode Three,Sat,03-May-69,5:15pm,00:24:30,5.10m,,53,81,The War Games,2,Patrick Troughton,37
+247,The War Games: Episode Four,Sat,10-May-69,5:15pm,00:23:30,5.70m,,50,63,The War Games,2,Patrick Troughton,36
+248,The War Games: Episode Five,Sat,17-May-69,5:14pm,00:24:30,5.10m,,53,87,The War Games,2,Patrick Troughton,24
+249,The War Games: Episode Six,Sat,24-May-69,5:15pm,00:22:53,4.20m,,53,91,The War Games,2,Patrick Troughton,18
+250,The War Games: Episode Seven,Sat,31-May-69,5:16pm,00:22:28,4.90m,,53,83,The War Games,2,Patrick Troughton,38
+251,The War Games: Episode Eight,Sat,07-Jun-69,5:14pm,00:24:37,3.50m,,53,96,The War Games,2,Patrick Troughton,28
+252,The War Games: Episode Nine,Sat,14-Jun-69,5:14pm,00:24:34,4.10m,,57,91,The War Games,2,Patrick Troughton,19
+253,The War Games: Episode Ten,Sat,21-Jun-69,5:14pm,00:24:23,5.00m,,58,66,The War Games,2,Patrick Troughton,21
+254,Spearhead From Space: Episode 1,Sat,03-Jan-70,5:15pm,00:23:38,8.40m,,54,54,Spearhead from Space,3,Jon Pertwee,38
+255,Spearhead From Space: Episode 2,Sat,10-Jan-70,5:15pm,00:24:21,8.10m,,,57,Spearhead from Space,3,Jon Pertwee,22
+256,Spearhead From Space: Episode 3,Sat,17-Jan-70,5:15pm,00:24:16,8.30m,,,49,Spearhead from Space,3,Jon Pertwee,15
+257,Spearhead From Space: Episode 4,Sat,24-Jan-70,5:14pm,00:24:47,8.10m,,57,51,Spearhead from Space,3,Jon Pertwee,65
+258,Doctor Who And The Silurians: Episode 1,Sat,31-Jan-70,5:15pm,00:24:15,8.80m,,58,41,Doctor Who and The Silurians,3,Jon Pertwee,31
+259,Doctor Who And The Silurians: Episode 2,Sat,07-Feb-70,5:16pm,00:23:08,7.30m,,58,68,Doctor Who and The Silurians,3,Jon Pertwee,29
+260,Doctor Who And The Silurians: Episode 3,Sat,14-Feb-70,5:15pm,00:23:16,7.50m,,57,59,Doctor Who and The Silurians,3,Jon Pertwee,18
+261,Doctor Who And The Silurians: Episode 4,Sat,21-Feb-70,5:15pm,00:25:00,8.20m,,60,46,Doctor Who and The Silurians,3,Jon Pertwee,32
+262,Doctor Who And The Silurians: Episode 5,Sat,28-Feb-70,5:16pm,00:23:58,7.50m,,58,52,Doctor Who and The Silurians,3,Jon Pertwee,23
+263,Doctor Who And The Silurians: Episode 6,Sat,07-Mar-70,5:15pm,00:24:15,7.20m,,57,63,Doctor Who and The Silurians,3,Jon Pertwee,69
+264,Doctor Who And The Silurians: Episode 7,Sat,14-Mar-70,5:15pm,00:22:55,7.50m,,58,54,Doctor Who and The Silurians,3,Jon Pertwee,26
+265,The Ambassadors of Death: Episode 1,Sat,21-Mar-70,5:16pm,00:24:33,7.10m,,60,60,The Ambassadors of Death,3,Jon Pertwee,39
+266,The Ambassadors of Death: Episode 2,Sat,28-Mar-70,5:14pm,00:24:39,7.60m,,61,59,The Ambassadors of Death,3,Jon Pertwee,33
+267,The Ambassadors of Death: Episode 3,Sat,04-Apr-70,5:21pm,00:24:38,8.00m,,59,60,The Ambassadors of Death,3,Jon Pertwee,27
+268,The Ambassadors of Death: Episode 4,Sat,11-Apr-70,5:44pm,00:24:37,9.30m,,58,46,The Ambassadors of Death,3,Jon Pertwee,23
+269,The Ambassadors of Death: Episode 5,Sat,18-Apr-70,5:14pm,00:24:17,7.10m,,,57,The Ambassadors of Death,3,Jon Pertwee,26
+270,The Ambassadors of Death: Episode 6,Sat,25-Apr-70,5:16pm,00:24:31,6.90m,,61,70,The Ambassadors of Death,3,Jon Pertwee,18
+271,The Ambassadors of Death: Episode 7,Sat,02-May-70,5:15pm,00:24:32,6.40m,,62,80,The Ambassadors of Death,3,Jon Pertwee,45
+272,Inferno: Episode 1,Sat,09-May-70,5:15pm,00:23:21,5.70m,,61,72,Inferno,3,Jon Pertwee,31
+273,Inferno: Episode 2,Sat,16-May-70,5:16pm,00:22:04,5.90m,,61,66,Inferno,3,Jon Pertwee,29
+274,Inferno: Episode 3,Sat,23-May-70,5:15pm,00:24:34,4.80m,,60,85,Inferno,3,Jon Pertwee,40
+275,Inferno: Episode 4,Sat,30-May-70,5:15pm,00:24:57,6.00m,,60,54,Inferno,3,Jon Pertwee,40
+276,Inferno: Episode 5,Sat,06-Jun-70,5:15pm,00:23:42,5.40m,,,54,Inferno,3,Jon Pertwee,36
+277,Inferno: Episode 6,Sat,13-Jun-70,5:26pm,00:23:32,6.70m,,58,73,Inferno,3,Jon Pertwee,21
+278,Inferno: Episode 7,Sat,20-Jun-70,5:15pm,00:24:33,5.50m,,60,79,Inferno,3,Jon Pertwee,33
+279,Terror of the Autons: Episode One,Sat,02-Jan-71,5:15pm,00:24:36,7.30m,,,78,Terror of the Autons,3,Jon Pertwee,16
+280,Terror of the Autons: Episode Two,Sat,09-Jan-71,5:14pm,00:24:48,8.00m,,,71,Terror of the Autons,3,Jon Pertwee,24
+281,Terror of the Autons: Episode Three,Sat,16-Jan-71,5:15pm,00:23:28,8.10m,,,58,Terror of the Autons,3,Jon Pertwee,33
+282,Terror of the Autons: Episode Four,Sat,23-Jan-71,5:16pm,00:22:10,8.40m,,,59,Terror of the Autons,3,Jon Pertwee,20
+283,The Mind of Evil: Episode One,Sat,30-Jan-71,5:15pm,00:24:39,6.10m,,,61,The Mind of Evil,3,Jon Pertwee,61
+284,The Mind of Evil: Episode Two,Sat,06-Feb-71,5:14pm,00:24:31,8.80m,,,54,The Mind of Evil,3,Jon Pertwee,41
+285,The Mind of Evil: Episode Three,Sat,13-Feb-71,5:15pm,00:24:30,7.50m,,,70,The Mind of Evil,3,Jon Pertwee,37
+286,The Mind of Evil: Episode Four,Sat,20-Feb-71,5:15pm,00:24:40,7.40m,,,63,The Mind of Evil,3,Jon Pertwee,39
+287,The Mind of Evil: Episode Five,Sat,27-Feb-71,5:15pm,00:23:34,7.60m,,,58,The Mind of Evil,3,Jon Pertwee,39
+288,The Mind of Evil: Episode Six,Sat,06-Mar-71,5:15pm,00:24:48,7.30m,,,65,The Mind of Evil,3,Jon Pertwee,18
+289,The Claws of Axos: Episode One,Sat,13-Mar-71,5:15pm,00:23:51,7.30m,,,57,The Claws of Axos,3,Jon Pertwee,38
+290,The Claws of Axos: Episode Two,Sat,20-Mar-71,5:15pm,00:24:00,8.00m,,,43,The Claws of Axos,3,Jon Pertwee,29
+291,The Claws of Axos: Episode Three,Sat,27-Mar-71,5:15pm,00:24:05,6.40m,,,70,The Claws of Axos,3,Jon Pertwee,38
+292,The Claws of Axos: Episode Four,Sat,03-Apr-71,5:15pm,00:25:16,7.80m,,,49,The Claws of Axos,3,Jon Pertwee,32
+293,Colony In Space: Episode One,Sat,10-Apr-71,6:11pm,00:24:19,7.60m,,,41,Colony In Space,3,Jon Pertwee,27
+294,Colony In Space: Episode Two,Sat,17-Apr-71,6:12pm,00:22:43,8.50m,,,28,Colony In Space,3,Jon Pertwee,22
+295,Colony In Space: Episode Three,Sat,24-Apr-71,6:13pm,00:24:47,9.50m,,,26,Colony In Space,3,Jon Pertwee,31
+296,Colony In Space: Episode Four,Sat,01-May-71,6:12pm,00:24:20,8.10m,,,28,Colony In Space,3,Jon Pertwee,34
+297,Colony In Space: Episode Five,Sat,08-May-71,6:13pm,00:25:22,8.80m,,,23,Colony In Space,3,Jon Pertwee,23
+298,Colony In Space: Episode Six,Sat,15-May-71,6:12pm,00:25:22,8.70m,,,23,Colony In Space,3,Jon Pertwee,37
+299,The Dæmons: Episode One,Sat,22-May-71,6:16pm,00:25:05,9.20m,,,26,Colony In Space,3,Jon Pertwee,35
+300,The Dæmons: Episode Two,Sat,29-May-71,6:10pm,00:24:20,8.00m,,,23,Colony In Space,3,Jon Pertwee,38
+301,The Dæmons: Episode Three,Sat,05-Jun-71,6:11pm,00:24:27,8.10m,,,34,Colony In Space,3,Jon Pertwee,45
+302,The Dæmons: Episode Four,Sat,12-Jun-71,6:11pm,00:24:25,8.10m,,,24,Colony In Space,3,Jon Pertwee,36
+303,The Dæmons: Episode Five,Sat,19-Jun-71,6:10pm,00:24:04,8.30m,,,17,Colony In Space,3,Jon Pertwee,55
+304,Day of the Daleks: Episode One,Sat,01-Jan-72,5:52pm,00:23:36,9.80m,,,36,Day of the Daleks,3,Jon Pertwee,34
+305,Day of the Daleks: Episode Two,Sat,08-Jan-72,5:53pm,00:23:52,10.40m,,,29,Day of the Daleks,3,Jon Pertwee,34
+306,Day of the Daleks: Episode Three,Sat,15-Jan-72,5:50pm,00:24:18,9.10m,,,38,Day of the Daleks,3,Jon Pertwee,50
+307,Day of the Daleks: Episode Four,Sat,22-Jan-72,5:51pm,00:24:17,9.10m,,,40,Day of the Daleks,3,Jon Pertwee,61
+308,The Curse of Peladon: Episode One,Sat,29-Jan-72,5:51pm,00:24:32,10.30m,,,36,The Curse of Peladon,3,Jon Pertwee,20
+309,The Curse of Peladon: Episode Two,Sat,05-Feb-72,5:51pm,00:24:33,11.00m,,,20,The Curse of Peladon,3,Jon Pertwee,18
+310,The Curse of Peladon: Episode Three,Sat,12-Feb-72,5:53pm,00:24:21,7.80m,,,49,The Curse of Peladon,3,Jon Pertwee,20
+311,The Curse of Peladon: Episode Four,Sat,19-Feb-72,5:50pm,00:24:16,8.40m,,,27,The Curse of Peladon,3,Jon Pertwee,25
+312,The Sea Devils: Episode One,Sat,26-Feb-72,5:50pm,00:24:40,6.40m,,,76,The Sea Devils,3,Jon Pertwee,21
+313,The Sea Devils: Episode Two,Sat,04-Mar-72,5:52pm,00:24:30,9.70m,,,26,The Sea Devils,3,Jon Pertwee,20
+314,The Sea Devils: Episode Three,Sat,11-Mar-72,5:49pm,00:24:05,8.30m,,,45,The Sea Devils,3,Jon Pertwee,21
+315,The Sea Devils: Episode Four,Sat,18-Mar-72,5:50pm,00:24:21,7.80m,,,40,The Sea Devils,3,Jon Pertwee,29
+316,The Sea Devils: Episode Five,Sat,25-Mar-72,5:45pm,00:24:53,8.30m,,,39,The Sea Devils,3,Jon Pertwee,27
+317,The Sea Devils: Episode Six,Sat,01-Apr-72,5:51pm,00:25:24,8.50m,,,47,The Sea Devils,3,Jon Pertwee,26
+318,The Mutants: Episode One,Sat,08-Apr-72,5:51pm,00:24:25,9.10m,,,29,The Mutants,3,Jon Pertwee,19
+319,The Mutants: Episode Two,Sat,15-Apr-72,5:51pm,00:24:24,7.80m,,,38,The Mutants,3,Jon Pertwee,15
+320,The Mutants: Episode Three,Sat,22-Apr-72,5:50pm,00:24:32,7.90m,,,36,The Mutants,3,Jon Pertwee,22
+321,The Mutants: Episode Four,Sat,29-Apr-72,5:49pm,00:24:00,7.50m,,,44,The Mutants,3,Jon Pertwee,21
+322,The Mutants: Episode Five,Sat,06-May-72,5:51pm,00:24:37,7.90m,,,44,The Mutants,3,Jon Pertwee,22
+323,The Mutants: Episode Six,Sat,13-May-72,5:52pm,00:23:43,6.50m,,,67,The Mutants,3,Jon Pertwee,20
+324,The Time Monster: Episode One,Sat,20-May-72,5:50pm,00:25:04,7.60m,,,37,The Time Monster,3,Jon Pertwee,13
+325,The Time Monster: Episode Two,Sat,27-May-72,5:51pm,00:25:05,7.40m,,,60,The Time Monster,3,Jon Pertwee,15
+326,The Time Monster: Episode Three,Sat,03-Jun-72,5:51pm,00:23:59,8.10m,,,36,The Time Monster,3,Jon Pertwee,40
+327,The Time Monster: Episode Four,Sat,10-Jun-72,5:50pm,00:23:55,7.60m,,,28,The Time Monster,3,Jon Pertwee,27
+328,The Time Monster: Episode Five,Sat,17-Jun-72,5:45pm,00:24:29,6.00m,,,67,The Time Monster,3,Jon Pertwee,36
+329,The Time Monster: Episode Six,Sat,24-Jun-72,5:46pm,00:24:55,7.60m,,,39,The Time Monster,3,Jon Pertwee,49
+330,The Three Doctors: Episode One,Sat,30-Dec-72,5:51pm,00:24:39,9.60m,,,41,The Three Doctors,3,Jon Pertwee,27
+331,The Three Doctors: Episode Two,Sat,06-Jan-73,5:51pm,00:24:18,10.80m,,,22,The Three Doctors,3,Jon Pertwee,27
+332,The Three Doctors: Episode Three,Sat,13-Jan-73,5:51pm,00:24:22,8.80m,,,44,The Three Doctors,3,Jon Pertwee,17
+333,The Three Doctors: Episode Four,Sat,20-Jan-73,5:51pm,00:25:07,11.90m,,,17,The Three Doctors,3,Jon Pertwee,16
+334,Carnival Of Monsters: Episode One,Sat,27-Jan-73,5:49pm,00:24:46,10.30m,,,36,Carnival of Monsters,3,Jon Pertwee,22
+335,Carnival Of Monsters: Episode Two,Sat,03-Feb-73,5:50pm,00:24:11,11.00m,,,20,Carnival of Monsters,3,Jon Pertwee,23
+336,Carnival Of Monsters: Episode Three,Sat,10-Feb-73,5:51pm,00:24:49,7.80m,,,49,Carnival of Monsters,3,Jon Pertwee,24
+337,Carnival Of Monsters: Episode Four,Sat,17-Feb-73,5:51pm,00:24:10,8.40m,,,27,Carnival of Monsters,3,Jon Pertwee,21
+338,Frontier In Space: Episode One,Sat,24-Feb-73,5:51pm,00:23:27,9.10m,,,32,Frontier in Space,3,Jon Pertwee,17
+339,Frontier In Space: Episode Two,Sat,03-Mar-73,5:53pm,00:24:10,7.80m,,,53,Frontier in Space,3,Jon Pertwee,40
+340,Frontier In Space: Episode Three,Sat,10-Mar-73,5:52pm,00:24:00,7.50m,,,57,Frontier in Space,3,Jon Pertwee,49
+341,Frontier In Space: Episode Four,Sat,17-Mar-73,5:50pm,00:23:35,7.10m,,,55,Frontier in Space,3,Jon Pertwee,13
+342,Frontier In Space: Episode Five,Sat,24-Mar-73,5:52pm,00:23:57,7.70m,,,57,Frontier in Space,3,Jon Pertwee,31
+343,Frontier In Space: Episode Six,Sat,31-Mar-73,5:52pm,00:24:44,8.90m,,,40,Frontier in Space,3,Jon Pertwee,28
+344,Planet of the Daleks: Episode One,Sat,07-Apr-73,6:11pm,00:24:51,11.00m,,,9,Planet of the Daleks,3,Jon Pertwee,7
+345,Planet of the Daleks: Episode Two,Sat,14-Apr-73,5:53pm,00:24:08,10.70m,,,18,Planet of the Daleks,3,Jon Pertwee,14
+346,Planet of the Daleks: Episode Three,Sat,21-Apr-73,5:53pm,00:22:34,10.10m,,,29,Planet of the Daleks,3,Jon Pertwee,16
+347,Planet of the Daleks: Episode Four,Sat,28-Apr-73,5:51pm,00:23:36,8.30m,,,29,Planet of the Daleks,3,Jon Pertwee,17
+348,Planet of the Daleks: Episode Five,Sat,05-May-73,5:51pm,00:22:31,9.70m,,,21,Planet of the Daleks,3,Jon Pertwee,19
+349,Planet of the Daleks: Episode Six,Sat,12-May-73,5:50pm,00:23:06,8.50m,,,24,Planet of the Daleks,3,Jon Pertwee,11
+350,The Green Death: Episode One,Sat,19-May-73,5:51pm,00:25:55,9.20m,,,18,The Green Death,3,Jon Pertwee,33
+351,The Green Death: Episode Two,Sat,26-May-73,5:50pm,00:25:56,7.20m,,,38,The Green Death,3,Jon Pertwee,21
+352,The Green Death: Episode Three,Sat,02-Jun-73,5:51pm,00:25:12,7.80m,,,29,The Green Death,3,Jon Pertwee,20
+353,The Green Death: Episode Four,Sat,09-Jun-73,5:50pm,00:25:57,6.80m,,,32,The Green Death,3,Jon Pertwee,26
+354,The Green Death: Episode Five,Sat,16-Jun-73,5:52pm,00:25:20,8.30m,,,15,The Green Death,3,Jon Pertwee,14
+355,The Green Death: Episode Six,Sat,23-Jun-73,5:50pm,00:26:06,7.00m,,,30,The Green Death,3,Jon Pertwee,17
+356,The Time Warrior: Part One,Sat,15-Dec-73,5:10pm,00:24:15,8.70m,,59,34,The Time Warrior,3,Jon Pertwee,35
+357,The Time Warrior: Part Two,Sat,22-Dec-73,5:45pm,00:24:10,7.00m,,,75,The Time Warrior,3,Jon Pertwee,37
+358,The Time Warrior: Part Three,Sat,29-Dec-73,5:10pm,00:23:30,6.60m,,,89,The Time Warrior,3,Jon Pertwee,45
+359,The Time Warrior: Part Four,Sat,05-Jan-74,5:29pm,00:24:57,10.60m,,60,22,The Time Warrior,3,Jon Pertwee,30
+360,Invasion of the Dinosaurs: Part One,Sat,12-Jan-74,5:30pm,00:25:29,11.00m,,62,24,Invasion of the Dinosaurs,3,Jon Pertwee,32
+361,Invasion of the Dinosaurs: Part Two,Sat,19-Jan-74,5:30pm,00:24:43,10.10m,,,26,Invasion of the Dinosaurs,3,Jon Pertwee,17
+362,Invasion of the Dinosaurs: Part Three,Sat,26-Jan-74,5:30pm,00:23:26,11.00m,,,27,Invasion of the Dinosaurs,3,Jon Pertwee,12
+363,Invasion of the Dinosaurs: Part Four,Sat,02-Feb-74,5:34pm,00:23:33,9.00m,,63,34,Invasion of the Dinosaurs,3,Jon Pertwee,15
+364,Invasion of the Dinosaurs: Part Five,Sat,09-Feb-74,5:29pm,00:24:30,9.00m,,,23,Invasion of the Dinosaurs,3,Jon Pertwee,16
+365,Invasion of the Dinosaurs: Part Six,Sat,16-Feb-74,5:29pm,00:25:34,7.50m,,62,54,Invasion of the Dinosaurs,3,Jon Pertwee,25
+366,Death to the Daleks: Part One,Sat,23-Feb-74,5:29pm,00:24:32,8.10m,,61,49,Death to the Daleks,3,Jon Pertwee,15
+367,Death to the Daleks: Part Two,Sat,02-Mar-74,5:29pm,00:24:25,9.50m,,,30,Death to the Daleks,3,Jon Pertwee,14
+368,Death to the Daleks: Part Three,Sat,09-Mar-74,5:30pm,00:24:24,10.50m,,61,20,Death to the Daleks,3,Jon Pertwee,12
+369,Death to the Daleks: Part Four,Sat,16-Mar-74,5:34pm,00:24:35,9.50m,,62,21,Death to the Daleks,3,Jon Pertwee,13
+370,The Monster of Peladon: Part One,Sat,23-Mar-74,5:30pm,00:24:59,9.20m,,,23,The Monster of Peladon,3,Jon Pertwee,28
+371,The Monster of Peladon: Part Two,Sat,30-Mar-74,5:30pm,00:23:26,6.80m,,,55,The Monster of Peladon,3,Jon Pertwee,24
+372,The Monster of Peladon: Part Three,Sat,06-Apr-74,5:30pm,00:24:47,7.40m,,64,42,The Monster of Peladon,3,Jon Pertwee,24
+373,The Monster of Peladon: Part Four,Sat,13-Apr-74,5:30pm,00:24:50,7.20m,,,37,The Monster of Peladon,3,Jon Pertwee,32
+374,The Monster of Peladon: Part Five,Sat,20-Apr-74,5:30pm,00:23:56,7.50m,,,42,The Monster of Peladon,3,Jon Pertwee,21
+375,The Monster of Peladon: Part Six,Sat,27-Apr-74,5:31pm,00:23:48,8.10m,,,30,The Monster of Peladon,3,Jon Pertwee,25
+376,Planet of the Spiders: Part One,Sat,04-May-74,5:47pm,00:24:40,10.10m,,58,17,Planet of the Spiders,3,Jon Pertwee,27
+377,Planet of the Spiders: Part Two,Sat,11-May-74,5:40pm,00:25:02,8.90m,,60,26,Planet of the Spiders,3,Jon Pertwee,22
+378,Planet of the Spiders: Part Three,Sat,18-May-74,5:40pm,00:24:58,8.80m,,57,22,Planet of the Spiders,3,Jon Pertwee,37
+379,Planet of the Spiders: Part Four,Sat,25-May-74,5:31pm,00:23:53,8.20m,,,24,Planet of the Spiders,3,Jon Pertwee,40
+380,Planet of the Spiders: Part Five,Sat,01-Jun-74,5:36pm,00:24:01,9.20m,,,19,Planet of the Spiders,3,Jon Pertwee,41
+381,Planet of the Spiders: Part Six,Sat,08-Jun-74,5:38pm,00:24:43,8.90m,,56,25,Planet of the Spiders,3,Jon Pertwee,25
+382,Robot: Part One,Sat,28-Dec-74,5:35pm,00:24:11,10.80m,,53,25,Robot,4,Tom Baker,34
+383,Robot: Part Two,Sat,04-Jan-75,5:32pm,00:25:00,10.70m,,53,17,Robot,4,Tom Baker,13
+384,Robot: Part Three,Sat,11-Jan-75,5:30pm,00:24:29,10.10m,,,22,Robot,4,Tom Baker,59
+385,Robot: Part Four,Sat,18-Jan-75,5:31pm,00:24:29,9.00m,,51,30,Robot,4,Tom Baker,31
+386,The Ark In Space: Part One,Sat,25-Jan-75,5:36pm,00:24:58,9.40m,,,27,The Ark in Space,4,Tom Baker,14
+387,The Ark In Space: Part Two,Sat,01-Feb-75,5:30pm,00:24:49,13.60m,,,5,The Ark in Space,4,Tom Baker,12
+388,The Ark In Space: Part Three,Sat,08-Feb-75,5:32pm,00:24:05,11.20m,,,17,The Ark in Space,4,Tom Baker,13
+389,The Ark In Space: Part Four,Sat,15-Feb-75,5:31pm,00:24:37,10.20m,,,24,The Ark in Space,4,Tom Baker,11
+390,The Sontaran Experiment: Part One,Sat,22-Feb-75,5:30pm,00:24:27,11.00m,,,18,The Sontaran Experiment,4,Tom Baker,9
+391,The Sontaran Experiment: Part Two,Sat,01-Mar-75,5:30pm,00:24:27,10.50m,,55,17,The Sontaran Experiment,4,Tom Baker,11
+392,Genesis of the Daleks: Part One,Sat,08-Mar-75,5:30pm,00:24:20,10.70m,,,23,Genesis of the Daleks,4,Tom Baker,30
+393,Genesis of the Daleks: Part Two,Sat,15-Mar-75,5:30pm,00:24:51,10.50m,,57,15,Genesis of the Daleks,4,Tom Baker,24
+394,Genesis of the Daleks: Part Three,Sat,22-Mar-75,5:30pm,00:22:38,8.50m,,,42,Genesis of the Daleks,4,Tom Baker,19
+395,Genesis of the Daleks: Part Four,Sat,29-Mar-75,5:31pm,00:23:38,8.80m,,58,36,Genesis of the Daleks,4,Tom Baker,24
+396,Genesis of the Daleks: Part Five,Sat,05-Apr-75,5:30pm,00:23:27,9.80m,,57,30,Genesis of the Daleks,4,Tom Baker,15
+397,Genesis of the Daleks: Part Six,Sat,12-Apr-75,5:31pm,00:23:30,9.10m,,56,26,Genesis of the Daleks,4,Tom Baker,27
+398,Revenge of the Cybermen: Part One,Sat,19-Apr-75,5:36pm,00:24:19,9.50m,,57,24,Revenge of the Cybermen,4,Tom Baker,17
+399,Revenge of the Cybermen: Part Two,Sat,26-Apr-75,5:30pm,00:24:24,8.30m,,,28,Revenge of the Cybermen,4,Tom Baker,21
+400,Revenge of the Cybermen: Part Three,Sat,03-May-75,5:50pm,00:24:32,8.90m,,,25,Revenge of the Cybermen,4,Tom Baker,22
+401,Revenge of the Cybermen: Part Four,Sat,10-May-75,6:30pm,00:23:21,9.40m,,58,22,Revenge of the Cybermen,4,Tom Baker,22
+402,Terror of the Zygons: Part One,Sat,30-Aug-75,5:46pm,00:21:41,8.40m,,59,29,Terror of the Zygons,4,Tom Baker,19
+403,Terror of the Zygons: Part Two,Sat,06-Sep-75,5:45pm,00:25:08,6.10m,,,61,Terror of the Zygons,4,Tom Baker,18
+404,Terror of the Zygons: Part Three,Sat,13-Sep-75,5:46pm,00:24:09,8.20m,,54,32,Terror of the Zygons,4,Tom Baker,18
+405,Terror of the Zygons: Part Four,Sat,20-Sep-75,5:22pm,00:25:22,7.20m,,,45,Terror of the Zygons,4,Tom Baker,17
+406,Planet of Evil: Part One,Sat,27-Sep-75,5:45pm,00:24:02,10.40m,,56,19,Planet of Evil,4,Tom Baker,17
+407,Planet of Evil: Part Two,Sat,04-Oct-75,5:46pm,00:22:30,9.90m,,,24,Planet of Evil,4,Tom Baker,15
+408,Planet of Evil: Part Three,Sat,11-Oct-75,6:07pm,00:23:50,9.10m,,57,29,Planet of Evil,4,Tom Baker,14
+409,Planet of Evil: Part Four,Sat,18-Oct-75,5:46pm,00:23:43,10.10m,,54,26,Planet of Evil,4,Tom Baker,15
+410,Pyramids of Mars: Part One,Sat,25-Oct-75,5:47pm,00:25:22,10.50m,,,28,Pyramids of Mars,4,Tom Baker,13
+411,Pyramids of Mars: Part Two,Sat,01-Nov-75,5:48pm,00:23:53,11.30m,,,15,Pyramids of Mars,4,Tom Baker,11
+412,Pyramids of Mars: Part Three,Sat,08-Nov-75,5:46pm,00:24:32,9.40m,,,37,Pyramids of Mars,4,Tom Baker,8
+413,Pyramids of Mars: Part Four,Sat,15-Nov-75,5:45pm,00:24:52,11.70m,,60,22,Pyramids of Mars,4,Tom Baker,7
+414,The Android Invasion: Part One,Sat,22-Nov-75,5:47pm,00:24:21,11.90m,,58,17,The Android Invasion,4,Tom Baker,26
+415,The Android Invasion: Part Two,Sat,29-Nov-75,5:45pm,00:24:30,11.30m,,,24,The Android Invasion,4,Tom Baker,22
+416,The Android Invasion: Part Three,Sat,06-Dec-75,5:46pm,00:24:50,12.10m,,,14,The Android Invasion,4,Tom Baker,22
+417,The Android Invasion: Part Four,Sat,13-Dec-75,5:56pm,00:24:30,11.40m,,,15,The Android Invasion,4,Tom Baker,13
+418,The Brain of Morbius: Part One,Sat,03-Jan-76,5:56pm,00:25:25,9.50m,,,30,The Brain of Morbius,4,Tom Baker,17
+419,The Brain of Morbius: Part Two,Sat,10-Jan-76,5:47pm,00:24:46,9.30m,,,32,The Brain of Morbius,4,Tom Baker,17
+420,The Brain of Morbius: Part Three,Sat,17-Jan-76,5:45pm,00:25:07,10.10m,,57,23,The Brain of Morbius,4,Tom Baker,17
+421,The Brain of Morbius: Part Four,Sat,24-Jan-76,5:55pm,00:24:18,10.20m,,,28,The Brain of Morbius,4,Tom Baker,25
+422,The Seeds of Doom: Part One,Sat,31-Jan-76,6:00pm,00:24:10,11.40m,,59,16,The Seeds of Doom,4,Tom Baker,12
+423,The Seeds of Doom: Part Two,Sat,07-Feb-76,5:31pm,00:24:09,11.40m,,,30,The Seeds of Doom,4,Tom Baker,9
+424,The Seeds of Doom: Part Three,Sat,14-Feb-76,5:56pm,00:24:51,10.30m,,,32,The Seeds of Doom,4,Tom Baker,18
+425,The Seeds of Doom: Part Four,Sat,21-Feb-76,5:46pm,00:24:46,11.10m,,,23,The Seeds of Doom,4,Tom Baker,16
+426,The Seeds of Doom: Part Five,Sat,28-Feb-76,5:47pm,00:25:06,9.90m,,,26,The Seeds of Doom,4,Tom Baker,15
+427,The Seeds of Doom: Part Six,Sat,06-Mar-76,5:47pm,00:21:51,11.50m,,,15,The Seeds of Doom,4,Tom Baker,15
+428,The Masque of Mandragora: Part One,Sat,04-Sep-76,6:12pm,00:24:31,8.30m,,58,40,Masque of Mandragora,4,Tom Baker,30
+429,The Masque of Mandragora: Part Two,Sat,11-Sep-76,6:07pm,00:24:44,9.80m,,56,22,Masque of Mandragora,4,Tom Baker,25
+430,The Masque of Mandragora: Part Three,Sat,18-Sep-76,6:11pm,00:24:34,9.20m,,,29,Masque of Mandragora,4,Tom Baker,23
+431,The Masque of Mandragora: Part Four,Sat,25-Sep-76,6:12pm,00:24:45,10.60m,,56,23,Masque of Mandragora,4,Tom Baker,42
+432,The Hand Of Fear: Part One,Sat,02-Oct-76,6:11pm,00:24:50,10.50m,,,24,The Hand of Fear,4,Tom Baker,23
+433,The Hand Of Fear: Part Two,Sat,09-Oct-76,5:50pm,00:24:48,10.20m,,,29,The Hand of Fear,4,Tom Baker,25
+434,The Hand Of Fear: Part Three,Sat,16-Oct-76,6:07pm,00:24:22,11.10m,,62,20,The Hand of Fear,4,Tom Baker,7
+435,The Hand Of Fear: Part Four,Sat,23-Oct-76,6:02pm,00:25:00,12.00m,,,19,The Hand of Fear,4,Tom Baker,5
+436,The Deadly Assassin: Part One,Sat,30-Oct-76,6:09pm,00:21:13,11.80m,,,15,The Deadly Assassin,4,Tom Baker,35
+437,The Deadly Assassin: Part Two,Sat,06-Nov-76,6:04pm,00:24:44,12.10m,,59,11,The Deadly Assassin,4,Tom Baker,31
+438,The Deadly Assassin: Part Three,Sat,13-Nov-76,6:07pm,00:24:20,13.00m,,,12,The Deadly Assassin,4,Tom Baker,9
+439,The Deadly Assassin: Part Four,Sat,20-Nov-76,6:07pm,00:24:30,11.80m,,61,12,The Deadly Assassin,4,Tom Baker,12
+440,The Face of Evil: Part One,Sat,01-Jan-77,6:22pm,00:24:58,10.70m,,61,23,The Face of Evil,4,Tom Baker,20
+441,The Face of Evil: Part Two,Sat,08-Jan-77,6:29pm,00:24:58,11.10m,,,19,The Face of Evil,4,Tom Baker,24
+442,The Face of Evil: Part Three,Sat,15-Jan-77,6:22pm,00:24:40,11.30m,,59,20,The Face of Evil,4,Tom Baker,21
+443,The Face of Evil: Part Four,Sat,22-Jan-77,6:26pm,00:24:46,11.70m,,60,19,The Face of Evil,4,Tom Baker,16
+444,The Robots of Death: Part One,Sat,29-Jan-77,6:20pm,00:24:06,12.10m,,62,14,The Robots of Death,4,Tom Baker,19
+445,The Robots of Death: Part Two,Sat,05-Feb-77,6:22pm,00:24:15,12.40m,,,17,The Robots of Death,4,Tom Baker,18
+446,The Robots of Death: Part Three,Sat,12-Feb-77,6:18pm,00:23:51,13.10m,,,15,The Robots of Death,4,Tom Baker,15
+447,The Robots of Death: Part Four,Sat,19-Feb-77,6:25pm,00:23:42,12.60m,,57,18,The Robots of Death,4,Tom Baker,14
+448,The Talons of Weng-Chiang: Part One,Sat,26-Feb-77,6:32pm,00:24:44,11.30m,,,16,The Talons of Weng-Chiang,4,Tom Baker,41
+449,The Talons of Weng-Chiang: Part Two,Sat,05-Mar-77,6:37pm,00:24:26,9.80m,,,28,The Talons of Weng-Chiang,4,Tom Baker,17
+450,The Talons of Weng-Chiang: Part Three,Sat,12-Mar-77,6:31pm,00:21:56,10.20m,,,22,The Talons of Weng-Chiang,4,Tom Baker,15
+451,The Talons of Weng-Chiang: Part Four,Sat,19-Mar-77,6:31pm,00:24:30,11.40m,,60,21,The Talons of Weng-Chiang,4,Tom Baker,38
+452,The Talons of Weng-Chiang: Part Five,Sat,26-Mar-77,6:30pm,00:24:49,10.10m,,,18,The Talons of Weng-Chiang,4,Tom Baker,19
+453,The Talons of Weng-Chiang: Part Six,Sat,02-Apr-77,6:30pm,00:23:26,9.30m,,58,32,The Talons of Weng-Chiang,4,Tom Baker,10
+454,Horror of Fang Rock: Part One,Sat,03-Sep-77,6:17pm,00:24:10,6.80m,,58,52,Horror of Fang Rock,4,Tom Baker,5
+455,Horror of Fang Rock: Part Two,Sat,10-Sep-77,6:15pm,00:24:10,7.10m,,,51,Horror of Fang Rock,4,Tom Baker,8
+456,Horror of Fang Rock: Part Three,Sat,17-Sep-77,6:17pm,00:23:12,9.80m,,60,23,Horror of Fang Rock,4,Tom Baker,8
+457,Horror of Fang Rock: Part Four,Sat,24-Sep-77,6:16pm,00:23:12,9.90m,,57,28,Horror of Fang Rock,4,Tom Baker,7
+458,The Invisible Enemy: Part One,Sat,01-Oct-77,6:20pm,00:23:09,8.60m,,,40,The Invisible Enemy,4,Tom Baker,10
+459,The Invisible Enemy: Part Two,Sat,08-Oct-77,6:04pm,00:25:13,7.30m,,,55,The Invisible Enemy,4,Tom Baker,19
+460,The Invisible Enemy: Part Three,Sat,15-Oct-77,6:13pm,00:23:28,7.50m,,,65,The Invisible Enemy,4,Tom Baker,18
+461,The Invisible Enemy: Part Four,Sat,22-Oct-77,6:12pm,00:21:22,8.30m,,60,50,The Invisible Enemy,4,Tom Baker,16
+462,Image of the Fendahl: Part One,Sat,29-Oct-77,6:11pm,00:24:38,6.70m,,,70,Image of the Fendahl,4,Tom Baker,13
+463,Image of the Fendahl: Part Two,Sat,05-Nov-77,6:10pm,00:24:44,7.50m,,75,54,Image of the Fendahl,4,Tom Baker,13
+464,Image of the Fendahl: Part Three,Sat,12-Nov-77,6:06pm,00:24:22,7.90m,,,63,Image of the Fendahl,4,Tom Baker,12
+465,Image of the Fendahl: Part Four,Sat,19-Nov-77,6:13pm,00:20:32,9.10m,,61,46,Image of the Fendahl,4,Tom Baker,8
+466,The Sun Makers: Part One,Sat,26-Nov-77,6:07pm,00:24:59,8.50m,,,48,The Sun Makers,4,Tom Baker,23
+467,The Sun Makers: Part Two,Sat,03-Dec-77,6:05pm,00:24:57,9.50m,,62,36,The Sun Makers,4,Tom Baker,33
+468,The Sun Makers: Part Three,Sat,10-Dec-77,6:05pm,00:24:57,8.90m,,,35,The Sun Makers,4,Tom Baker,43
+469,The Sun Makers: Part Four,Sat,17-Dec-77,6:08pm,00:24:57,8.40m,,59,42,The Sun Makers,4,Tom Baker,54
+470,Underworld: Part One,Sat,07-Jan-78,6:24pm,00:22:36,8.90m,,65,50,Underworld,4,Tom Baker,7
+471,Underworld: Part Two,Sat,14-Jan-78,6:26pm,00:21:27,9.10m,,,37,Underworld,4,Tom Baker,12
+472,Underworld: Part Three,Sat,21-Jan-78,6:30pm,00:22:21,8.90m,,,37,Underworld,4,Tom Baker,15
+473,Underworld: Part Four,Sat,28-Jan-78,6:29pm,00:23:03,11.70m,,,27,Underworld,4,Tom Baker,15
+474,The Invasion of Time: Part One,Sat,04-Feb-78,6:25pm,00:25:00,11.20m,,56,28,The Invasion of Time,4,Tom Baker,32
+475,The Invasion of Time: Part Two,Sat,11-Feb-78,6:24pm,00:25:00,11.40m,,,29,The Invasion of Time,4,Tom Baker,31
+476,The Invasion of Time: Part Three,Sat,18-Feb-78,6:24pm,00:25:00,9.50m,,,47,The Invasion of Time,4,Tom Baker,24
+477,The Invasion of Time: Part Four,Sat,25-Feb-78,6:25pm,00:23:31,10.90m,,,28,The Invasion of Time,4,Tom Baker,29
+478,The Invasion of Time: Part Five,Sat,04-Mar-78,6:26pm,00:25:00,10.30m,,,32,The Invasion of Time,4,Tom Baker,16
+479,The Invasion of Time: Part Six,Sat,11-Mar-78,6:25pm,00:25:54,9.80m,,,35,The Invasion of Time,4,Tom Baker,13
+480,The Ribos Operation: Part One,Sat,02-Sep-78,5:44pm,00:25:02,8.30m,,59,42,The Ribos Operation,4,Tom Baker,21
+481,The Ribos Operation: Part Two,Sat,09-Sep-78,6:21pm,00:24:46,8.10m,,,36,The Ribos Operation,4,Tom Baker,20
+482,The Ribos Operation: Part Three,Sat,16-Sep-78,6:31pm,00:24:42,7.90m,,,38,The Ribos Operation,4,Tom Baker,22
+483,The Ribos Operation: Part Four,Sat,23-Sep-78,6:21pm,00:24:50,8.20m,,67,36,The Ribos Operation,4,Tom Baker,22
+484,The Pirate Planet: Part One,Sat,30-Sep-78,6:22pm,00:25:05,9.10m,,61,30,The Pirate Planet,4,Tom Baker,47
+485,The Pirate Planet: Part Two,Sat,07-Oct-78,6:21pm,00:25:30,7.40m,,,52,The Pirate Planet,4,Tom Baker,19
+486,The Pirate Planet: Part Three,Sat,14-Oct-78,6:21pm,00:25:47,8.20m,,64,44,The Pirate Planet,4,Tom Baker,29
+487,The Pirate Planet: Part Four,Sat,21-Oct-78,6:22pm,00:25:16,8.40m,,64,46,The Pirate Planet,4,Tom Baker,25
+488,The Stones of Blood: Part One,Sat,28-Oct-78,6:24pm,00:24:20,8.60m,,,38,The Stones of Blood,4,Tom Baker,14
+489,The Stones of Blood: Part Two,Sat,04-Nov-78,6:22pm,00:23:53,6.60m,,,75,The Stones of Blood,4,Tom Baker,8
+490,The Stones of Blood: Part Three,Sat,11-Nov-78,6:21pm,00:24:27,9.30m,,,38,The Stones of Blood,4,Tom Baker,12
+491,The Stones of Blood: Part Four,Sat,18-Nov-78,6:23pm,00:23:07,7.60m,,67,66,The Stones of Blood,4,Tom Baker,10
+492,The Androids of Tara: Part One,Sat,25-Nov-78,6:22pm,00:24:53,8.50m,,,45,The Androids of Tara,4,Tom Baker,14
+493,The Androids of Tara: Part Two,Sat,02-Dec-78,6:21pm,00:24:27,10.10m,,65,30,The Androids of Tara,4,Tom Baker,52
+494,The Androids of Tara: Part Three,Sat,09-Dec-78,6:21pm,00:23:52,8.90m,,,38,The Androids of Tara,4,Tom Baker,54
+495,The Androids of Tara: Part Four,Sat,16-Dec-78,6:19pm,00:24:49,9.00m,,66,45,The Androids of Tara,4,Tom Baker,21
+496,The Power of Kroll: Part One,Sat,23-Dec-78,6:17pm,00:23:16,6.50m,,,85,The Power of Kroll,4,Tom Baker,31
+497,The Power of Kroll: Part Two,Sat,30-Dec-78,6:30pm,00:23:57,12.40m,,,26,The Power of Kroll,4,Tom Baker,32
+498,The Power of Kroll: Part Three,Sat,06-Jan-79,6:27pm,00:21:56,8.90m,,,51,The Power of Kroll,4,Tom Baker,16
+499,The Power of Kroll: Part Four,Sat,13-Jan-79,6:27pm,00:21:58,9.90m,,63,31,The Power of Kroll,4,Tom Baker,14
+500,The Armageddon Factor: Part One,Sat,20-Jan-79,6:25pm,00:24:39,7.50m,,65,93,The Armageddon Factor,4,Tom Baker,26
+501,The Armageddon Factor: Part Two,Sat,27-Jan-79,6:27pm,00:23:56,8.80m,,,49,The Armageddon Factor,4,Tom Baker,21
+502,The Armageddon Factor: Part Three,Sat,03-Feb-79,6:28pm,00:25:02,7.80m,,,76,The Armageddon Factor,4,Tom Baker,27
+503,The Armageddon Factor: Part Four,Sat,10-Feb-79,6:27pm,00:25:09,8.60m,,,60,The Armageddon Factor,4,Tom Baker,14
+504,The Armageddon Factor: Part Five,Sat,17-Feb-79,6:26pm,00:24:42,8.60m,,,66,The Armageddon Factor,4,Tom Baker,11
+505,The Armageddon Factor: Part Six,Sat,24-Feb-79,6:29pm,00:25:09,9.60m,,66,36,The Armageddon Factor,4,Tom Baker,17
+506,Destiny of the Daleks: Episode One,Sat,01-Sep-79,6:13pm,00:24:03,13.00m,,67,28,Destiny of the Daleks,4,Tom Baker,49
+507,Destiny of the Daleks: Episode Two,Sat,08-Sep-79,6:09pm,00:25:14,12.70m,,,39,Destiny of the Daleks,4,Tom Baker,46
+508,Destiny of the Daleks: Episode Three,Sat,15-Sep-79,6:08pm,00:24:32,13.80m,,63,28,Destiny of the Daleks,4,Tom Baker,44
+509,Destiny of the Daleks: Episode Four,Sat,22-Sep-79,6:17pm,00:26:05,14.40m,,64,27,Destiny of the Daleks,4,Tom Baker,45
+510,City of Death: Part One,Sat,29-Sep-79,6:06pm,00:25:00,12.40m,,,50,City of Death,4,Tom Baker,42
+511,City of Death: Part Two,Sat,06-Oct-79,6:17pm,00:25:00,14.10m,,64,44,City of Death,4,Tom Baker,10
+512,City of Death: Part Three,Sat,13-Oct-79,6:04pm,00:25:00,15.40m,,,34,City of Death,4,Tom Baker,21
+513,City of Death: Part Four,Sat,20-Oct-79,6:16pm,00:25:00,16.10m,,64,16,City of Death,4,Tom Baker,16
+514,The Creature from the Pit: Part One,Sat,27-Oct-79,6:02pm,00:23:32,9.30m,,,43,The Creature from the Pit,4,Tom Baker,33
+515,The Creature from the Pit: Part Two,Sat,03-Nov-79,6:07pm,00:24:03,10.80m,,67,23,The Creature from the Pit,4,Tom Baker,24
+516,The Creature from the Pit: Part Three,Sat,10-Nov-79,6:02pm,00:23:55,10.20m,,,36,The Creature from the Pit,4,Tom Baker,20
+517,The Creature from the Pit: Part Four,Sat,17-Nov-79,6:03pm,00:24:07,9.60m,,,36,The Creature from the Pit,4,Tom Baker,16
+518,Nightmare of Eden: Part One,Sat,24-Nov-79,6:01pm,00:24:17,8.70m,,,41,Nightmare of Eden,4,Tom Baker,31
+519,Nightmare of Eden: Part Two,Sat,01-Dec-79,6:04pm,00:22:44,9.60m,,,31,Nightmare of Eden,4,Tom Baker,31
+520,Nightmare of Eden: Part Three,Sat,08-Dec-79,6:03pm,00:24:06,9.60m,,,32,Nightmare of Eden,4,Tom Baker,35
+521,Nightmare of Eden: Part Four,Sat,15-Dec-79,5:56pm,00:24:31,9.40m,,65,32,Nightmare of Eden,4,Tom Baker,24
+522,The Horns of Nimon: Part One,Sat,22-Dec-79,6:11pm,00:25:41,6.00m,,,100,The Horns of Nimon,4,Tom Baker,16
+523,The Horns of Nimon: Part Two,Sat,29-Dec-79,5:54pm,00:25:00,8.80m,,,56,The Horns of Nimon,4,Tom Baker,34
+524,The Horns of Nimon: Part Three,Sat,05-Jan-80,6:21pm,00:23:26,9.80m,,,40,The Horns of Nimon,4,Tom Baker,37
+525,The Horns of Nimon: Part Four,Sat,12-Jan-80,6:06pm,00:26:45,10.40m,,67,26,The Horns of Nimon,4,Tom Baker,20
+526,The Leisure Hive: Part One,Sat,30-Aug-80,6:14pm,00:23:33,5.90m,,,77,The Leisure Hive,4,Tom Baker,51
+527,The Leisure Hive: Part Two,Sat,06-Sep-80,6:20pm,00:20:45,5.00m,,,103,The Leisure Hive,4,Tom Baker,17
+528,The Leisure Hive: Part Three,Sat,13-Sep-80,5:57pm,00:21:21,5.00m,,,111,The Leisure Hive,4,Tom Baker,17
+529,The Leisure Hive: Part Four,Sat,20-Sep-80,6:15pm,00:21:19,4.50m,,65,111,The Leisure Hive,4,Tom Baker,49
+530,Meglos: Part One,Sat,27-Sep-80,6:16pm,00:24:43,5.00m,,61,105,Meglos,4,Tom Baker,31
+531,Meglos: Part Two,Sat,04-Oct-80,6:17pm,00:21:24,4.20m,,64,139,Meglos,4,Tom Baker,27
+532,Meglos: Part Three,Sat,11-Oct-80,5:42pm,00:21:19,4.70m,,,129,Meglos,4,Tom Baker,33
+533,Meglos: Part Four,Sat,18-Oct-80,5:44pm,00:19:30,4.70m,,63,127,Meglos,4,Tom Baker,33
+534,Full Circle: Part One,Sat,25-Oct-80,5:40pm,00:24:23,5.90m,,,106,Full Circle,4,Tom Baker,55
+535,Full Circle: Part Two,Sat,01-Nov-80,5:42pm,00:22:11,3.70m,,,170,Full Circle,4,Tom Baker,49
+536,Full Circle: Part Three,Sat,08-Nov-80,5:42pm,00:22:00,5.90m,,,115,Full Circle,4,Tom Baker,36
+537,Full Circle: Part Four,Sat,15-Nov-80,5:40pm,00:24:16,5.50m,,65,127,Full Circle,4,Tom Baker,49
+538,State of Decay: Part One,Sat,22-Nov-80,5:42pm,00:22:24,5.80m,,,119,State of Decay,4,Tom Baker,32
+539,State of Decay: Part Two,Sat,29-Nov-80,5:41pm,00:23:16,5.30m,,,136,State of Decay,4,Tom Baker,23
+540,State of Decay: Part Three,Sat,06-Dec-80,5:40pm,00:24:13,4.40m,,,145,State of Decay,4,Tom Baker,16
+541,State of Decay: Part Four,Sat,13-Dec-80,5:39pm,00:24:54,5.40m,,69,125,State of Decay,4,Tom Baker,27
+542,Warriors' Gate: Part One,Sat,03-Jan-81,5:20pm,00:22:54,7.10m,,59,88,Warrior's Gate,4,Tom Baker,20
+543,Warriors' Gate: Part Two,Sat,10-Jan-81,5:09pm,00:23:47,6.70m,,,93,Warrior's Gate,4,Tom Baker,24
+544,Warriors' Gate: Part Three,Sat,17-Jan-81,5:11pm,00:22:15,8.30m,,,59,Warrior's Gate,4,Tom Baker,28
+545,Warriors' Gate: Part Four,Sat,24-Jan-81,5:09pm,00:24:53,7.80m,,59,69,Warrior's Gate,4,Tom Baker,28
+546,The Keeper of Traken: Part One,Sat,31-Jan-81,5:09pm,00:24:05,7.60m,,,72,The Keeper of Traken,4,Tom Baker,29
+547,The Keeper of Traken: Part Two,Sat,07-Feb-81,5:08pm,00:24:50,6.10m,,,106,The Keeper of Traken,4,Tom Baker,18
+548,The Keeper of Traken: Part Three,Sat,14-Feb-81,5:09pm,00:23:49,5.20m,,,112,The Keeper of Traken,4,Tom Baker,13
+549,The Keeper of Traken: Part Four,Sat,21-Feb-81,5:12pm,00:25:11,6.10m,,63,103,The Keeper of Traken,4,Tom Baker,17
+550,Logopolis: Part One,Sat,28-Feb-81,5:09pm,00:24:32,7.10m,,,84,Logopolis,4,Tom Baker,10
+551,Logopolis: Part Two,Sat,07-Mar-81,5:09pm,00:24:03,7.70m,,61,57,Logopolis,4,Tom Baker,25
+552,Logopolis: Part Three,Sat,14-Mar-81,5:11pm,00:24:32,5.80m,,,102,Logopolis,4,Tom Baker,22
+553,Logopolis: Part Four,Sat,21-Mar-81,5:09pm,00:25:10,6.10m,,65,97,Logopolis,4,Tom Baker,29
+554,Castrovalva: Part One,Mon,04-Jan-82,6:56pm,00:24:14,9.10m,,,54,Castrovalva,5,Peter Davison,13
+555,Castrovalva: Part Two,Tue,05-Jan-82,7:02pm,00:24:13,8.60m,,,84,Castrovalva,5,Peter Davison,8
+556,Castrovalva: Part Three,Mon,11-Jan-82,6:55pm,00:23:35,10.20m,,,47,Castrovalva,5,Peter Davison,40
+557,Castrovalva: Part Four,Tue,12-Jan-82,7:05pm,00:24:12,10.40m,,,46,Castrovalva,5,Peter Davison,35
+558,Four To Doomsday: Part One,Mon,18-Jan-82,6:56pm,00:23:36,8.40m,,,66,Four to Doomsday,5,Peter Davison,25
+559,Four To Doomsday: Part Two,Tue,19-Jan-82,7:05pm,00:24:11,8.80m,,,61,Four to Doomsday,5,Peter Davison,19
+560,Four To Doomsday: Part Three,Mon,25-Jan-82,6:56pm,00:24:09,8.80m,,,63,Four to Doomsday,5,Peter Davison,10
+561,Four To Doomsday: Part Four,Tue,26-Jan-82,7:06pm,00:24:53,9.40m,,,53,Four to Doomsday,5,Peter Davison,19
+562,Kinda: Part One,Mon,01-Feb-82,6:57pm,00:24:50,8.40m,,,78,Kinda,5,Peter Davison,14
+563,Kinda: Part Two,Tue,02-Feb-82,7:04pm,00:24:58,9.40m,,,45,Kinda,5,Peter Davison,10
+564,Kinda: Part Three,Mon,08-Feb-82,6:56pm,00:24:17,8.50m,,,67,Kinda,5,Peter Davison,35
+565,Kinda: Part Four,Tue,09-Feb-82,7:05pm,00:24:28,8.90m,,,56,Kinda,5,Peter Davison,37
+566,The Visitation: Part One,Mon,15-Feb-82,6:57pm,00:24:11,9.10m,,,54,The Visitation,5,Peter Davison,16
+567,The Visitation: Part Two,Tue,16-Feb-82,7:05pm,00:24:26,9.30m,,,48,The Visitation,5,Peter Davison,18
+568,The Visitation: Part Three,Mon,22-Feb-82,6:57pm,00:24:24,9.90m,,,41,The Visitation,5,Peter Davison,20
+569,The Visitation: Part Four,Tue,23-Feb-82,7:05pm,00:23:32,10.10m,,,40,The Visitation,5,Peter Davison,15
+570,Black Orchid: Part One,Mon,01-Mar-82,6:56pm,00:24:56,9.90m,,,57,Black Orchid,5,Peter Davison,40
+571,Black Orchid: Part Two,Tue,02-Mar-82,7:04pm,00:24:41,10.10m,,,55,Black Orchid,5,Peter Davison,35
+572,Earthshock: Part One,Mon,08-Mar-82,6:56pm,00:24:22,9.10m,,,45,Earthshock,5,Peter Davison,25
+573,Earthshock: Part Two,Tue,09-Mar-82,7:05pm,00:24:23,8.80m,,,50,Earthshock,5,Peter Davison,30
+574,Earthshock: Part Three,Mon,15-Mar-82,6:57pm,00:24:24,9.80m,,,32,Earthshock,5,Peter Davison,24
+575,Earthshock: Part Four,Tue,16-Mar-82,7:03pm,00:24:28,9.60m,,,40,Earthshock,5,Peter Davison,19
+576,Time-Flight: Part One,Mon,22-Mar-82,6:57pm,00:24:56,10.00m,,,26,Time Flight,5,Peter Davison,55
+577,Time-Flight: Part Two,Tue,23-Mar-82,7:05pm,00:23:58,8.50m,,,48,Time Flight,5,Peter Davison,33
+578,Time-Flight: Part Three,Mon,29-Mar-82,6:56pm,00:24:29,8.90m,,,46,Time Flight,5,Peter Davison,24
+579,Time-Flight: Part Four,Tue,30-Mar-82,6:51pm,00:24:30,8.10m,,,64,Time Flight,5,Peter Davison,36
+580,Arc of Infinity: Part One,Mon,03-Jan-83,6:45pm,00:24:37,7.20m,,69,74,Arc of Infinity,5,Peter Davison,21
+581,Arc of Infinity: Part Two,Wed,05-Jan-83,6:46pm,00:24:42,7.30m,,70,66,Arc of Infinity,5,Peter Davison,19
+582,Arc of Infinity: Part Three,Tue,11-Jan-83,6:51pm,00:24:37,6.90m,,67,89,Arc of Infinity,5,Peter Davison,24
+583,Arc of Infinity: Part Four,Wed,12-Jan-83,6:46pm,00:24:28,7.20m,,66,82,Arc of Infinity,5,Peter Davison,17
+584,Snakedance: Part One,Tue,18-Jan-83,6:50pm,00:24:26,6.70m,,65,95,Arc of Infinity,5,Peter Davison,44
+585,Snakedance: Part Two,Wed,19-Jan-83,6:46pm,00:24:35,7.70m,,66,75,Arc of Infinity,5,Peter Davison,41
+586,Snakedance: Part Three,Tue,25-Jan-83,6:50pm,00:24:29,6.60m,,67,66,Arc of Infinity,5,Peter Davison,44
+587,Snakedance: Part Four,Wed,26-Jan-83,6:44pm,00:24:29,7.40m,,67,74,Arc of Infinity,5,Peter Davison,57
+588,Mawdryn Undead: Part One,Tue,01-Feb-83,6:50pm,00:24:03,6.50m,,67,103,Mawdryn Undead,5,Peter Davison,34
+589,Mawdryn Undead: Part Two,Wed,02-Feb-83,6:46pm,00:24:33,7.50m,,70,83,Mawdryn Undead,5,Peter Davison,23
+590,Mawdryn Undead: Part Three,Tue,08-Feb-83,6:49pm,00:24:32,7.40m,,67,84,Mawdryn Undead,5,Peter Davison,15
+591,Mawdryn Undead: Part Four,Wed,09-Feb-83,6:47pm,00:24:33,7.70m,,68,78,Mawdryn Undead,5,Peter Davison,18
+592,Terminus: Part One,Tue,15-Feb-83,6:54pm,00:24:58,6.80m,,65,86,Terminus,5,Peter Davison,31
+593,Terminus: Part Two,Wed,16-Feb-83,6:46pm,00:24:40,7.50m,,67,75,Terminus,5,Peter Davison,45
+594,Terminus: Part Three,Tue,22-Feb-83,6:54pm,00:24:39,6.50m,,64,97,Terminus,5,Peter Davison,39
+595,Terminus: Part Four,Wed,23-Feb-83,6:46pm,00:24:49,7.40m,,67,80,Terminus,5,Peter Davison,16
+596,Enlightenment: Part One,Tue,01-Mar-83,6:55pm,00:24:12,6.60m,,67,89,Enlightenment,5,Peter Davison,25
+597,Enlightenment: Part Two,Wed,02-Mar-83,6:45pm,00:24:23,7.20m,,65,76,Enlightenment,5,Peter Davison,26
+598,Enlightenment: Part Three,Tue,08-Mar-83,6:54pm,00:24:40,6.20m,,68,99,Enlightenment,5,Peter Davison,36
+599,Enlightenment: Part Four,Wed,09-Mar-83,6:46pm,00:24:34,7.30m,,70,68,Enlightenment,5,Peter Davison,51
+600,The King's Demons: Part One,Tue,15-Mar-83,6:55pm,00:24:48,5.80m,,65,107,The King's Demons,5,Peter Davison,69
+601,The King's Demons: Part Two,Wed,16-Mar-83,6:47pm,00:24:27,7.20m,,63,66,The King's Demons,5,Peter Davison,51
+602,The Five Doctors,Fri,25-Nov-83,7:20pm,01:30:23,7.70m,,75,54,The Five Doctors,5,Peter Davison,49
+603,Warriors of the Deep: Part One,Thu,05-Jan-84,6:41pm,00:24:48,7.60m,,65,51,Warriors of the Deep,5,Peter Davison,34
+604,Warriors of the Deep: Part Two,Fri,06-Jan-84,6:41pm,00:24:04,7.50m,,64,52,Warriors of the Deep,5,Peter Davison,36
+605,Warriors of the Deep: Part Three,Thu,12-Jan-84,6:41pm,00:24:02,7.30m,,62,74,Warriors of the Deep,5,Peter Davison,35
+606,Warriors of the Deep: Part Four,Fri,13-Jan-84,6:40pm,00:24:48,6.60m,,65,87,Warriors of the Deep,5,Peter Davison,16
+607,The Awakening: Part One,Thu,19-Jan-84,6:41pm,00:25:18,7.90m,,65,61,The Awakening,5,Peter Davison,25
+608,The Awakening: Part Two,Fri,20-Jan-84,6:41pm,00:24:47,6.60m,,63,84,The Awakening,5,Peter Davison,34
+609,Frontios: Part One,Thu,26-Jan-84,6:41pm,00:24:39,8.00m,,66,58,Frontios,5,Peter Davison,41
+610,Frontios: Part Two,Fri,27-Jan-84,6:41pm,00:24:35,5.80m,,69,115,Frontios,5,Peter Davison,37
+611,Frontios: Part Three,Thu,02-Feb-84,6:40pm,00:24:30,7.80m,,65,59,Frontios,5,Peter Davison,40
+612,Frontios: Part Four,Fri,03-Feb-84,6:41pm,00:24:26,5.60m,,65,112,Frontios,5,Peter Davison,40
+613,Resurrection of the Daleks: Part One,Wed,08-Feb-84,6:49pm,00:46:24,7.30m,,69,73,Resurrection of the Daleks,5,Peter Davison,55
+614,Resurrection of the Daleks: Part Two,Wed,15-Feb-84,6:52pm,00:46:52,8.00m,,65,53,Resurrection of the Daleks,5,Peter Davison,45
+615,Planet of Fire: Part One,Thu,23-Feb-84,6:41pm,00:24:26,7.40m,,,71,Planet of Fire,5,Peter Davison,46
+616,Planet of Fire: Part Two,Fri,24-Feb-84,6:41pm,00:24:20,6.10m,,,102,Planet of Fire,5,Peter Davison,38
+617,Planet of Fire: Part Three,Thu,01-Mar-84,6:41pm,00:23:57,7.40m,,,67,Planet of Fire,5,Peter Davison,34
+618,Planet of Fire: Part Four,Fri,02-Mar-84,6:41pm,00:24:44,7.00m,,,74,Planet of Fire,5,Peter Davison,37
+619,The Caves of Androzani: Part One,Thu,08-Mar-84,6:41pm,00:24:33,6.90m,,65,66,The Caves of Androzani,5,Peter Davison,12
+620,The Caves of Androzani: Part Two,Fri,09-Mar-84,6:41pm,00:25:00,6.60m,,,75,The Caves of Androzani,5,Peter Davison,22
+621,The Caves of Androzani: Part Three,Thu,15-Mar-84,6:42pm,00:24:36,7.80m,,65,62,The Caves of Androzani,5,Peter Davison,14
+622,The Caves of Androzani: Part Four,Fri,16-Mar-84,6:41pm,00:25:37,7.80m,,68,62,The Caves of Androzani,5,Peter Davison,21
+623,The Twin Dilemma: Part One,Thu,22-Mar-84,6:41pm,00:24:42,7.60m,,61,66,The Twin Dilemma,6,Colin Baker,15
+624,The Twin Dilemma: Part Two,Fri,23-Mar-84,6:41pm,00:25:09,7.40m,,66,71,The Twin Dilemma,6,Colin Baker,9
+625,The Twin Dilemma: Part Three,Thu,29-Mar-84,6:41pm,00:24:27,7.00m,,59,59,The Twin Dilemma,6,Colin Baker,23
+626,The Twin Dilemma: Part Four,Fri,30-Mar-84,6:43pm,00:25:04,7.30m,,67,67,The Twin Dilemma,6,Colin Baker,16
+627,Attack of the Cybermen: Part One,Sat,05-Jan-85,5:22pm,00:44:17,8.90m,,61,71,Attack of the Cybermen,6,Colin Baker,24
+628,Attack of the Cybermen: Part Two,Sat,12-Jan-85,5:22pm,00:44:29,7.20m,,65,104,Attack of the Cybermen,6,Colin Baker,23
+629,Vengeance on Varos: Part One,Sat,19-Jan-85,5:21pm,00:44:42,7.20m,,63,110,Vengeance on Varos,6,Colin Baker,24
+630,Vengeance on Varos: Part Two,Sat,26-Jan-85,5:21pm,00:44:43,7.00m,,65,108,Vengeance on Varos,6,Colin Baker,31
+631,The Mark of the Rani: Part One,Sat,02-Feb-85,5:21pm,00:45:01,6.30m,,64,111,The Mark of the Rani,6,Colin Baker,30
+632,The Mark of the Rani: Part Two,Sat,09-Feb-85,5:21pm,00:44:32,7.30m,,64,84,The Mark of the Rani,6,Colin Baker,20
+633,The Two Doctors: Part One,Sat,16-Feb-85,5:22pm,00:44:22,6.60m,,65,92,The Two Doctors,6,Colin Baker,13
+634,The Two Doctors: Part Two,Sat,23-Feb-85,5:21pm,00:44:49,6.00m,,62,90,The Two Doctors,6,Colin Baker,11
+635,The Two Doctors: Part Three,Sat,02-Mar-85,5:23pm,00:44:45,6.90m,,65,66,The Two Doctors,6,Colin Baker,20
+636,Timelash: Part One,Sat,09-Mar-85,5:22pm,00:45:00,6.70m,,66,69,Timelash,6,Colin Baker,23
+637,Timelash: Part Two,Sat,16-Mar-85,5:21pm,00:44:36,7.40m,,64,79,Timelash,6,Colin Baker,20
+638,Revelation of the Daleks: Part One,Sat,23-Mar-85,5:21pm,00:44:31,7.40m,,67,65,Revelation of the Daleks,6,Colin Baker,30
+639,Revelation of the Daleks: Part Two,Sat,30-Mar-85,5:22pm,00:45:27,7.70m,,65,58,Revelation of the Daleks,6,Colin Baker,27
+640,The Trial Of A Time Lord (The Mysterious Planet): Part One,Sat,06-Sep-86,5:46pm,00:24:57,4.90m,,72,69,The Mysterious Planet,6,Colin Baker,16
+641,The Trial Of A Time Lord (The Mysterious Planet): Part Two,Sat,13-Sep-86,5:46pm,00:24:44,4.90m,,69,75,The Mysterious Planet,6,Colin Baker,16
+642,The Trial Of A Time Lord (The Mysterious Planet): Part Three,Sat,20-Sep-86,5:47pm,00:24:18,3.90m,,70,98,The Mysterious Planet,6,Colin Baker,19
+643,The Trial Of A Time Lord (The Mysterious Planet): Part Four,Sat,27-Sep-86,5:46pm,00:24:20,3.70m,,72,97,The Mysterious Planet,6,Colin Baker,16
+644,The Trial Of A Time Lord (Mindwarp): Part Five,Sat,04-Oct-86,5:47pm,00:24:42,4.80m,,71,76,Mindwarp,6,Colin Baker,15
+645,The Trial Of A Time Lord (Mindwarp): Part Six,Sat,11-Oct-86,5:45pm,00:24:45,4.60m,,69,87,Mindwarp,6,Colin Baker,11
+646,The Trial Of A Time Lord (Mindwarp): Part Seven,Sat,18-Oct-86,5:47pm,00:24:33,5.10m,,66,87,Mindwarp,6,Colin Baker,14
+647,The Trial Of A Time Lord (Mindwarp): Part Eight,Sat,25-Oct-86,5:47pm,00:24:44,5.00m,,72,84,Mindwarp,6,Colin Baker,13
+648,The Trial Of A Time Lord (Terror of the Vervoids): Part Nine,Sat,01-Nov-86,5:47pm,00:24:56,5.20m,,66,85,Terror of the Vervoids,6,Colin Baker,19
+649,The Trial Of A Time Lord (Terror of the Vervoids): Part Ten,Sat,08-Nov-86,5:45pm,00:24:18,4.60m,,69,93,Terror of the Vervoids,6,Colin Baker,21
+650,The Trial Of A Time Lord (Terror of the Vervoids): Part Eleven,Sat,15-Nov-86,5:46pm,00:24:07,5.30m,,69,86,Terror of the Vervoids,6,Colin Baker,21
+651,The Trial Of A Time Lord (Terror of the Vervoids): Part Twelve,Sat,22-Nov-86,5:45pm,00:24:45,5.20m,,69,89,Terror of the Vervoids,6,Colin Baker,18
+652,The Trial Of A Time Lord (The Ultimate Foe): Part Thirteen,Sat,29-Nov-86,5:19pm,00:24:42,4.40m,,69,98,The Ultimate Foe,6,Colin Baker,9
+653,The Trial Of A Time Lord (The Ultimate Foe): Part Fourteen,Sat,06-Dec-86,5:45pm,00:29:30,5.60m,,69,80,The Ultimate Foe,6,Colin Baker,12
+654,Time and the Rani: Part One,Mon,07-Sep-87,7:35pm,00:24:44,5.10m,,58,71,Time and the Rani,7,Sylvester McCoy,7
+655,Time and the Rani: Part Two,Mon,14-Sep-87,7:34pm,00:24:36,4.20m,,63,85,Time and the Rani,7,Sylvester McCoy,7
+656,Time and the Rani: Part Three,Mon,21-Sep-87,7:35pm,00:24:23,4.30m,,57,81,Time and the Rani,7,Sylvester McCoy,46
+657,Time and the Rani: Part Four,Mon,28-Sep-87,7:35pm,00:24:38,4.90m,,59,86,Time and the Rani,7,Sylvester McCoy,54
+658,Paradise Towers: Part One,Mon,05-Oct-87,7:34pm,00:24:33,4.50m,,61,88,Paradise Towers,7,Sylvester McCoy,35
+659,Paradise Towers: Part Two,Mon,12-Oct-87,7:37pm,00:24:39,5.20m,,58,84,Paradise Towers,7,Sylvester McCoy,33
+660,Paradise Towers: Part Three,Mon,19-Oct-87,7:36pm,00:24:30,5.00m,,58,79,Paradise Towers,7,Sylvester McCoy,32
+661,Paradise Towers: Part Four,Mon,26-Oct-87,7:35pm,00:24:21,5.00m,,57,93,Paradise Towers,7,Sylvester McCoy,38
+662,Delta and the Bannermen: Part One,Mon,02-Nov-87,7:34pm,00:24:47,5.30m,,63,90,Delta and the Bannermen,7,Sylvester McCoy,74
+663,Delta and the Bannermen: Part Two,Mon,09-Nov-87,7:35pm,00:24:23,5.10m,,60,93,Delta and the Bannermen,7,Sylvester McCoy,74
+664,Delta and the Bannermen: Part Three,Mon,16-Nov-87,7:35pm,00:24:22,5.40m,,60,87,Delta and the Bannermen,7,Sylvester McCoy,38
+665,Dragonfire: Part One,Mon,23-Nov-87,7:37pm,00:24:01,5.50m,,61,80,Dragonfire,7,Sylvester McCoy,43
+666,Dragonfire: Part Two,Mon,30-Nov-87,7:35pm,00:24:40,4.00m,,61,96,Dragonfire,7,Sylvester McCoy,18
+667,Dragonfire: Part Three,Mon,07-Dec-87,7:35pm,00:24:26,4.70m,,64,94,Dragonfire,7,Sylvester McCoy,37
+668,Remembrance of the Daleks: Part One,Wed,05-Oct-88,7:34pm,00:24:33,5.50m,,68,78,Remembrance of the Daleks,7,Sylvester McCoy,33
+669,Remembrance of the Daleks: Part Two,Wed,12-Oct-88,7:35pm,00:24:31,5.80m,,69,78,Remembrance of the Daleks,7,Sylvester McCoy,23
+670,Remembrance of the Daleks: Part Three,Wed,19-Oct-88,7:34pm,00:24:30,5.10m,,70,91,Remembrance of the Daleks,7,Sylvester McCoy,33
+671,Remembrance of the Daleks: Part Four,Wed,26-Oct-88,7:34pm,00:24:36,5.00m,,72,96,Remembrance of the Daleks,7,Sylvester McCoy,38
+672,The Happiness Patrol: Part One,Wed,02-Nov-88,7:35pm,00:24:51,5.30m,,67,96,The Happiness Patrol,7,Sylvester McCoy,22
+673,The Happiness Patrol: Part Two,Wed,09-Nov-88,7:35pm,00:24:48,4.60m,,65,104,The Happiness Patrol,7,Sylvester McCoy,25
+674,The Happiness Patrol: Part Three,Wed,16-Nov-88,7:35pm,00:24:25,5.30m,,65,88,The Happiness Patrol,7,Sylvester McCoy,23
+675,Silver Nemesis: Part One,Wed,23-Nov-88,7:35pm,00:24:31,6.10m,,71,76,Silver Nemesis,7,Sylvester McCoy,52
+676,Silver Nemesis: Part Two,Wed,30-Nov-88,7:35pm,00:24:12,5.20m,,70,94,Silver Nemesis,7,Sylvester McCoy,31
+677,Silver Nemesis: Part Three,Wed,07-Dec-88,7:34pm,00:24:36,5.20m,,70,98,Silver Nemesis,7,Sylvester McCoy,17
+678,The Greatest Show in the Galaxy: Part One,Wed,14-Dec-88,7:34pm,00:24:23,5.00m,,68,86,The Greatest Show in the Galaxy,7,Sylvester McCoy,25
+679,The Greatest Show in the Galaxy: Part Two,Wed,21-Dec-88,7:35pm,00:24:20,5.30m,,66,99,The Greatest Show in the Galaxy,7,Sylvester McCoy,22
+680,The Greatest Show in the Galaxy: Part Three,Wed,28-Dec-88,7:39pm,00:24:30,4.80m,,69,108,The Greatest Show in the Galaxy,7,Sylvester McCoy,24
+681,The Greatest Show in the Galaxy: Part Four,Wed,04-Jan-89,7:37pm,00:24:24,6.60m,,64,79,The Greatest Show in the Galaxy,7,Sylvester McCoy,27
+682,Battlefield: Part One,Wed,06-Sep-89,7:35pm,00:24:06,3.10m,,69,102,The Greatest Show in the Galaxy,7,Sylvester McCoy,33
+683,Battlefield: Part Two,Wed,13-Sep-89,7:34pm,00:24:07,3.90m,,68,91,The Greatest Show in the Galaxy,7,Sylvester McCoy,28
+684,Battlefield: Part Three,Wed,20-Sep-89,7:35pm,00:24:13,3.60m,,67,95,The Greatest Show in the Galaxy,7,Sylvester McCoy,47
+685,Battlefield: Part Four,Wed,27-Sep-89,7:34pm,00:24:14,4.00m,,65,89,The Greatest Show in the Galaxy,7,Sylvester McCoy,43
+686,Ghost Light: Part One,Wed,04-Oct-89,7:34pm,00:24:17,4.20m,,68,94,Ghost Light,7,Sylvester McCoy,18
+687,Ghost Light: Part Two,Wed,11-Oct-89,7:34pm,00:24:18,4.00m,,68,93,Ghost Light,7,Sylvester McCoy,17
+688,Ghost Light: Part Three,Wed,18-Oct-89,7:35pm,00:24:17,4.00m,,64,104,Ghost Light,7,Sylvester McCoy,16
+689,The Curse of Fenric: Part One,Wed,25-Oct-89,7:34pm,00:24:23,4.30m,,67,104,The Curse of Fenric,7,Sylvester McCoy,53
+690,The Curse of Fenric: Part Two,Wed,01-Nov-89,7:34pm,00:24:09,4.00m,,68,104,The Curse of Fenric,7,Sylvester McCoy,39
+691,The Curse of Fenric: Part Three,Wed,08-Nov-89,7:34pm,00:24:11,4.00m,,68,104,The Curse of Fenric,7,Sylvester McCoy,45
+692,The Curse of Fenric: Part Four,Wed,15-Nov-89,7:34pm,00:24:16,4.20m,,68,104,The Curse of Fenric,7,Sylvester McCoy,57
+693,Survival: Part One,Wed,22-Nov-89,7:35pm,00:24:14,5.00m,,69,89,Survival,7,Sylvester McCoy,35
+694,Survival: Part Two,Wed,29-Nov-89,7:35pm,00:24:13,4.80m,,69,96,Survival,7,Sylvester McCoy,17
+695,Survival: Part Three,Wed,06-Dec-89,7:35pm,00:24:20,5.00m,,71,91,Survival,7,Sylvester McCoy,25
+696,The TV Movie,Mon,27-May-96,8:29pm,01:24:39,9.08m,36.00%,75,17,Survival,7,Sylvester McCoy,35
+697,Rose,Sat,26-Mar-05,7:00pm,00:44:14,10.81m,44.80%,76,7,Rose,9,Christopher Eccleston,62
+698,The End Of The World,Sat,02-Apr-05,6:59pm,00:44:45,7.97m,37.80%,76,19,The End of the World,9,Christopher Eccleston,70
+699,The Unquiet Dead,Sat,09-Apr-05,7:00pm,00:44:50,8.86m,37.80%,80,15,The Unquiet Dead,9,Christopher Eccleston,48
+700,Aliens of London,Sat,16-Apr-05,7:00pm,00:45:05,7.63m,35.70%,82,18,Aliens of London,9,Christopher Eccleston,66
+701,World War Three,Sat,23-Apr-05,7:01pm,00:40:40,7.98m,40.20%,81,20,World War Three,9,Christopher Eccleston,61
+702,Dalek,Sat,30-Apr-05,6:59pm,00:45:20,8.63m,44.90%,84,14,Dalek,9,Christopher Eccleston,63
+703,The Long Game,Sat,07-May-05,7:00pm,00:44:25,8.01m,40.40%,81,17,The Long Game,9,Christopher Eccleston,82
+704,Father's Day,Sat,14-May-05,7:01pm,00:42:50,8.06m,44.40%,83,17,Father's Day,9,Christopher Eccleston,76
+705,The Empty Child,Sat,21-May-05,6:29pm,00:41:50,7.11m,37.00%,84,21,The Empty Child,9,Christopher Eccleston,84
+706,The Doctor Dances,Sat,28-May-05,6:59pm,00:42:50,6.86m,39.00%,85,18,The Doctor Dances,9,Christopher Eccleston,63
+707,Boom Town,Sat,04-Jun-05,7:01pm,00:43:15,7.68m,39.00%,82,18,Boom Town,9,Christopher Eccleston,80
+708,Bad Wolf,Sat,11-Jun-05,7:00pm,00:42:50,6.81m,37.90%,86,19,Bad Wolf,9,Christopher Eccleston,66
+709,The Parting of the Ways,Sat,18-Jun-05,6:59pm,00:45:30,6.91m,44.00%,89,17,The Parting of the Ways,9,Christopher Eccleston,65
+710,The Christmas Invasion,Sun,25-Dec-05,7:02pm,00:58:55,9.84m,43.50%,84,9,The Christmas Invasion,10,David Tennant,211
+711,New Earth,Sat,15-Apr-06,7:16pm,00:44:05,8.62m,40.20%,85,9,New Earth,10,David Tennant,125
+712,Tooth and Claw,Sat,22-Apr-06,7:18pm,00:44:30,9.24m,42.90%,83,10,Tooth and Claw,10,David Tennant,63
+713,School Reunion,Sat,29-Apr-06,7:23pm,00:44:10,8.31m,41.60%,85,12,School Reunion,10,David Tennant,37
+714,The Girl in the Fireplace,Sat,06-May-06,6:59pm,00:44:40,7.90m,38.10%,84,13,The Girl in the Fireplace,10,David Tennant,45
+715,Rise of the Cybermen,Sat,13-May-06,7:23pm,00:46:05,9.22m,43.70%,86,6,Rise of the Cybermen,10,David Tennant,133
+716,The Age of Steel,Sat,20-May-06,6:38pm,00:45:50,7.64m,37.80%,86,15,The Age of Steel,10,David Tennant,134
+717,The Idiot's Lantern,Sat,27-May-06,7:00pm,00:45:10,6.76m,33.40%,84,18,The Idiot's Lantern,10,David Tennant,118
+718,The Impossible Planet,Sat,03-Jun-06,7:00pm,00:45:20,6.32m,41.00%,85,18,The Impossible Planet,10,David Tennant,25
+719,The Satan Pit,Sat,10-Jun-06,7:01pm,00:47:10,6.08m,38.00%,86,19,The Satan Pit,10,David Tennant,24
+720,Love & Monsters,Sat,17-Jun-06,7:00pm,00:45:05,6.66m,39.70%,76,15,Love and Monsters,10,David Tennant,31
+721,Fear Her,Sat,24-Jun-06,7:02pm,00:43:50,7.14m,41.20%,83,20,Fear Her,10,David Tennant,41
+722,Army of Ghosts,Sat,01-Jul-06,7:01pm,00:43:20,8.19m,45.10%,86,7,Army of Ghosts,10,David Tennant,111
+723,Doomsday,Sat,08-Jul-06,6:59pm,00:46:25,8.22m,44.50%,89,8,Doomsday,10,David Tennant,105
+724,The Runaway Bride,Mon,25-Dec-06,7:00pm,01:00:00,9.38m,37.90%,84,10,The Runaway Bride,10,David Tennant,187
+725,Smith and Jones,Sat,31-Mar-07,7:00pm,00:44:25,8.71m,40.70%,88,9,Smith and Jones,10,David Tennant,160
+726,The Shakespeare Code,Sat,07-Apr-07,6:59pm,00:45:35,7.23m,36.90%,87,14,The Shakespeare Code,10,David Tennant,228
+727,Gridlock,Sat,14-Apr-07,7:40pm,00:44:58,8.40m,40.40%,85,7,Gridlock,10,David Tennant,38
+728,Daleks in Manhattan,Sat,21-Apr-07,6:36pm,00:46:55,6.69m,36.40%,87,18,Daleks In Manhattan,10,David Tennant,85
+729,Evolution of the Daleks,Sat,28-Apr-07,6:44pm,00:46:25,6.97m,39.20%,85,17,Evolution Of The Daleks,10,David Tennant,86
+730,The Lazarus Experiment,Sat,05-May-07,7:00pm,00:43:00,7.19m,38.80%,86,12,The Lazarus Experiment,10,David Tennant,90
+731,42,Sat,19-May-07,7:15pm,00:45:25,7.41m,37.10%,84,16,42,10,David Tennant,15
+732,Human Nature,Sat,26-May-07,7:11pm,00:45:00,7.74m,38.00%,86,13,Human Nature,10,David Tennant,118
+733,The Family of Blood,Sat,02-Jun-07,7:12pm,00:42:55,7.21m,40.90%,86,13,Family of Blood,10,David Tennant,72
+734,Blink,Sat,09-Jun-07,7:10pm,00:43:40,6.62m,38.40%,87,16,Blink,10,David Tennant,15
+735,Utopia,Sat,16-Jun-07,7:15pm,00:45:50,7.84m,38.20%,87,14,Utopia,10,David Tennant,77
+736,The Sound of Drums,Sat,23-Jun-07,7:15pm,00:46:10,7.51m,40.00%,87,11,The Sound of Drums,10,David Tennant,164
+737,Last of the Time Lords,Sat,30-Jun-07,7:05pm,00:51:25,8.61m,40.60%,88,10,Last of the Time Lords,10,David Tennant,104
+738,Voyage of the Damned,Tue,25-Dec-07,6:51pm,01:11:50,13.31m,51.60%,85,2,Voyage of the Damned,10,David Tennant,141
+739,Partners in Crime,Sat,05-Apr-08,6:19pm,00:48:30,9.14m,41.30%,88,10,Partners in Crime,10,David Tennant,173
+740,The Fires of Pompeii,Sat,12-Apr-08,6:46pm,00:48:15,9.04m,38.80%,87,10,The Fires of Pompeii,10,David Tennant,46
+741,Planet of the Ood,Sat,19-Apr-08,6:19pm,00:43:35,7.50m,35.20%,87,12,Planet of the Ood,10,David Tennant,65
+742,The Sontaran Stratagem,Sat,26-Apr-08,6:19pm,00:44:30,7.06m,36.90%,87,17,The Sontaran Stratagem,10,David Tennant,120
+743,The Poison Sky,Sat,03-May-08,6:19pm,00:44:40,6.53m,34.30%,88,18,The Poison Sky,10,David Tennant,80
+744,The Doctor's Daughter,Sat,10-May-08,6:44pm,00:45:10,7.33m,40.10%,88,10,The Doctor's Daughter,10,David Tennant,74
+745,The Unicorn and the Wasp,Sat,17-May-08,6:58pm,00:44:40,8.41m,37.80%,86,7,The Unicorn and The Wasp,10,David Tennant,45
+746,Silence in the Library,Sat,31-May-08,7:02pm,00:43:00,6.27m,27.70%,89,27,Silence in the Library,10,David Tennant,20
+747,Forest of the Dead,Sat,07-Jun-08,7:00pm,00:45:20,7.84m,42.10%,89,10,Forest of the Dead,10,David Tennant,64
+748,Midnight,Sat,14-Jun-08,7:10pm,00:43:50,8.05m,39.80%,86,5,Midnight,10,David Tennant,22
+749,Turn Left,Sat,21-Jun-08,6:38pm,00:49:25,8.09m,38.10%,88,4,Turn Left,10,David Tennant,89
+750,The Stolen Earth,Sat,28-Jun-08,7:11pm,00:45:40,8.78m,42.10%,91,2,The Stolen Earth,10,David Tennant,147
+751,Journey's End,Sat,05-Jul-08,6:40pm,01:03:05,10.57m,48.70%,91,1,Journey's End,10,David Tennant,86
+752,The Next Doctor,Thu,25-Dec-08,6:00pm,01:00:40,13.10m,52.10%,86,2,The Next Doctor,10,David Tennant,197
+753,Planet of the Dead,Sat,11-Apr-09,6:44pm,00:58:55,9.74m,41.70%,88,5,Planet of the Dead,10,David Tennant,102
+754,The Waters of Mars,Sun,15-Nov-09,6:59pm,01:02:05,10.32m,35.30%,88,5,The Waters of Mars,10,David Tennant,23
+755,The End of Time: Part One,Fri,25-Dec-09,5:59pm,00:59:35,12.04m,44.70%,87,1,"The End of Time, part one",10,David Tennant,184
+756,The End of Time: Part Two,Fri,01-Jan-10,6:41pm,01:12:35,12.27m,40.00%,89,1,"The End of Time, part two",10,David Tennant,164
+757,The Eleventh Hour,Sat,03-Apr-10,6:21pm,01:02:35,10.08m,39.70%,86,3,The Eleventh Hour,11, Matt Smith,16
+758,The Beast Below,Sat,10-Apr-10,6:20pm,00:41:25,8.42m,38.90%,86,10,The Beast Below,11, Matt Smith,12
+759,Victory of the Daleks,Sat,17-Apr-10,6:29pm,00:41:15,7.82m,37.40%,84,11,Victory of the Daleks,11, Matt Smith,14
+760,The Time of Angels,Sat,24-Apr-10,6:23pm,00:40:55,8.59m,41.20%,87,8,The Time of Angels,11, Matt Smith,12
+761,Flesh and Stone,Sat,01-May-10,6:27pm,00:41:40,8.50m,38.20%,86,11,Flesh and Stone,11, Matt Smith,9
+762,The Vampires of Venice,Sat,08-May-10,5:59pm,00:47:25,7.68m,34.80%,86,12,The Vampires of Venice,11, Matt Smith,15
+763,Amy's Choice,Sat,15-May-10,6:24pm,00:43:25,7.55m,37.40%,84,13,Amy's Choice,11, Matt Smith,11
+764,The Hungry Earth,Sat,22-May-10,6:18pm,00:42:50,6.49m,39.80%,86,19,The Hungry Earth,11, Matt Smith,9
+765,Cold Blood,Sat,29-May-10,7:01pm,00:44:55,7.49m,31.90%,86,9,Cold Blood,11, Matt Smith,11
+766,Vincent and the Doctor,Sat,05-Jun-10,6:41pm,00:46:05,6.76m,35.50%,86,17,Vincent and the Doctor,11, Matt Smith,9
+767,The Lodger,Sat,12-Jun-10,6:47pm,00:41:15,6.44m,28.50%,87,20,The Lodger,11, Matt Smith,9
+768,The Pandorica Opens,Sat,19-Jun-10,6:39pm,00:48:40,7.58m,37.10%,88,10,The Pandorica Opens,11, Matt Smith,21
+769,The Big Bang,Sat,26-Jun-10,6:06pm,00:53:40,6.70m,36.90%,89,10,The Big Bang,11, Matt Smith,13
+770,A Christmas Carol,Sat,25-Dec-10,6:01pm,01:02:04,12.11m,41.80%,83,4,A Christmas Carol,11, Matt Smith,18
+771,The Impossible Astronaut,Sat,23-Apr-11,6:01pm,00:43:45,8.86m,43.30%,88,6,The Impossible Astronaut,11, Matt Smith,18
+772,Day of the Moon,Sat,30-Apr-11,6:00pm,00:46:14,7.30m,36.70%,87,15,Day of the Moon,11, Matt Smith,18
+773,The Curse of the Black Spot,Sat,07-May-11,6:15pm,00:44:51,7.85m,35.50%,86,11,Curse of the Black Spot,11, Matt Smith,12
+774,The Doctor's Wife,Sat,14-May-11,6:30pm,00:45:51,7.97m,34.70%,87,22,The Doctor's Wife,11, Matt Smith,8
+775,The Rebel Flesh,Sat,21-May-11,6:45pm,00:43:19,7.35m,34.10%,85,13,The Rebel Flesh,11, Matt Smith,26
+776,The Almost People,Sat,28-May-11,6:45pm,00:45:08,6.72m,29.50%,86,21,The Almost People,11, Matt Smith,10
+777,A Good Man Goes to War,Sat,04-Jun-11,6:40pm,00:48:12,7.51m,31.00%,88,21,A Good Man Goes To War,11, Matt Smith,88
+778,Let's Kill Hitler,Sat,27-Aug-11,7:09pm,00:48:08,8.10m,33.30%,85,11,Let's Kill Hitler,11, Matt Smith,89
+779,Night Terrors,Sat,03-Sep-11,7:01pm,00:42:34,7.07m,29.80%,86,19,Night Terrors,11, Matt Smith,34
+780,The Girl Who Waited,Sat,10-Sep-11,7:14pm,00:46:02,7.60m,38.80%,85,13,The Girl Who Waited,11, Matt Smith,17
+781,The God Complex,Sat,17-Sep-11,7:11pm,00:47:54,6.77m,28.30%,86,18,The God Complex,11, Matt Smith,25
+782,Closing Time,Sat,24-Sep-11,7:10pm,00:45:11,6.93m,29.40%,86,20,Closing Time,11, Matt Smith,100
+783,The Wedding of River Song,Sat,01-Oct-11,7:05pm,00:45:22,7.67m,32.00%,86,16,The Wedding of River Song,11, Matt Smith,141
+784,"The Doctor, The Widow and the Wardrobe",Sun,25-Dec-11,6:59pm,00:58:22,10.77m,37.30%,84,3,"The Doctor, the Widow, and the Wardrobe",11, Matt Smith,25
+785,Asylum of the Daleks,Sat,01-Sep-12,7:21pm,00:48:50,8.33m,34.40%,89,6,Asylum of the Daleks,11, Matt Smith,48
+786,Dinosaurs on a Spaceship,Sat,08-Sep-12,7:36pm,00:45:10,7.57m,31.90%,87,9,Dinosaurs on a Spaceship,11, Matt Smith,24
+787,A Town Called Mercy,Sat,15-Sep-12,7:36pm,00:44:10,8.42m,33.40%,85,9,A Town Called Mercy,11, Matt Smith,19
+788,The Power Of Three,Sat,22-Sep-12,7:31pm,00:41:15,7.67m,31.80%,87,13,The Power of Three,11, Matt Smith,159
+789,The Angels Take Manhattan,Sat,29-Sep-12,7:20pm,00:44:15,7.82m,32.00%,88,13,The Angels Take Manhattan,11, Matt Smith,36
+790,The Snowmen,Tue,25-Dec-12,5:14pm,00:59:44,9.87m,38.80%,87,9,The Snowmen,11, Matt Smith,90
+791,The Bells of Saint John,Sat,30-Mar-13,6:14pm,00:45:24,8.44m,35.80%,87,8,The Bells of Saint John,11, Matt Smith,149
+792,The Rings of Akhaten,Sat,06-Apr-13,6:15pm,00:43:44,7.45m,34.80%,84,16,The Rings of Akhaten,11, Matt Smith,68
+793,Cold War,Sat,13-Apr-13,6:03pm,00:41:37,7.37m,31.40%,84,15,Cold War,11, Matt Smith,26
+794,Hide,Sat,20-Apr-13,6:44pm,00:44:44,6.61m,29.20%,85,19,Hide,11, Matt Smith,14
+795,Journey to the Centre of the TARDIS,Sat,27-Apr-13,6:29pm,00:44:42,6.52m,30.20%,85,21,Journey to the Centre of the Tardis,11, Matt Smith,16
+796,The Crimson Horror,Sat,04-May-13,6:29pm,00:44:40,6.47m,31.50%,85,20,The Crimson Horror,11, Matt Smith,112
+797,Nightmare in Silver,Sat,11-May-13,7:01pm,00:44:32,6.64m,27.10%,84,22,Nightmare in Silver,11, Matt Smith,39
+798,The Name of the Doctor,Sat,18-May-13,6:59pm,00:44:20,7.45m,31.70%,88,10,The Name of the Doctor,11, Matt Smith,54
+799,The Day of The Doctor,Sat,23-Nov-13,7:50pm,01:16:44,12.80m,40.90%,88,1,The Day of the Doctor,11, Matt Smith,197
+800,The Time of the Doctor,Wed,25-Dec-13,7:30pm,01:01:00,11.14m,35.30%,83,3,The Time of the Doctor,11, Matt Smith,114
+801,Deep Breath,Sat,23-Aug-14,7:52pm,01:16:26,9.17m,37.90%,82,2,Deep Breath,12, Peter Capaldi,104
+802,Into the Dalek,Sat,30-Aug-14,7:30pm,00:45:00,7.29m,30.40%,84,9,Deep Breath,12, Peter Capaldi,74
+803,Robot Of Sherwood,Sat,06-Sep-14,7:31pm,00:46:16,7.28m,31.10%,82,10,Deep Breath,12, Peter Capaldi,89
+804,Listen,Sat,13-Sep-14,7:31pm,00:47:50,7.01m,29.60%,82,7,Listen,12, Peter Capaldi,42
+805,Time Heist,Sat,20-Sep-14,7:33pm,00:45:22,6.99m,29.60%,84,14,Listen,12, Peter Capaldi,73
+806,The Caretaker,Sat,27-Sep-14,8:29pm,00:45:20,6.82m,26.40%,83,20,The Caretaker,12, Peter Capaldi,96
+807,Kill The Moon,Sat,04-Oct-14,8:29pm,00:45:00,6.91m,26.60%,82,20,Kill the Moon,12, Peter Capaldi,30
+808,Mummy On The Orient Express,Sat,11-Oct-14,8:37pm,00:46:30,7.11m,26.60%,85,14,Mummy on the Orient Express,12, Peter Capaldi,45
+809,Flatline,Sat,18-Oct-14,8:24pm,00:43:20,6.71m,25.50%,85,23,Flatline,12, Peter Capaldi,39
+810,In The Forest Of The Night,Sat,25-Oct-14,8:19pm,00:45:10,6.92m,26.30%,83,20,In the Forest of the Night,12, Peter Capaldi,51
+811,Dark Water,Sat,01-Nov-14,8:15pm,00:46:25,7.34m,27.40%,85,15,Dark Water,12, Peter Capaldi,101
+812,Death in Heaven,Sat,08-Nov-14,8:02pm,00:57:00,7.60m,28.60%,83,14,Dark Water,12, Peter Capaldi,99
+813,Last Christmas,Thu,25-Dec-14,6:14pm,01:00:15,8.28m,31.60%,82,7,Dark Water,12, Peter Capaldi,12
+814,The Magician's Apprentice,Sat,19-Sep-15,7:43pm,00:46:22,6.54m,26.30%,84,13,The Magician's Apprentice,12, Peter Capaldi,34
+815,The Witch's Familiar,Sat,26-Sep-15,7:45pm,00:47:50,5.71m,22.90%,83,24,The Witch's Familiar,12, Peter Capaldi,12
+816,Under the Lake,Sat,03-Oct-15,8:26pm,00:43:20,5.63m,22.00%,84,22,Under the Lake,12, Peter Capaldi,10
+817,Before The Flood,Sat,10-Oct-15,8:26pm,00:42:25,6.05m,26.70%,82,21,Before The Flood,12, Peter Capaldi,12
+818,The Girl Who Died,Sat,17-Oct-15,8:23pm,00:45:45,6.56m,28.10%,82,18,The Girl Who Died,12, Peter Capaldi,14
+819,The Woman Who Lived,Sat,24-Oct-15,8:21pm,00:45:50,6.11m,24.40%,81,25,The Woman Who Lived,12, Peter Capaldi,18
+820,The Zygon Invasion,Sat,31-Oct-15,8:17pm,00:46:30,5.76m,24.30%,82,24,The Woman Who Lived,12, Peter Capaldi,24
+821,The Zygon Inversion,Sat,07-Nov-15,8:00pm,00:46:20,6.03m,25.10%,84,24,The Woman Who Lived,12, Peter Capaldi,12
+822,Sleep No More,Sat,14-Nov-15,8:14pm,00:45:07,5.61m,22.60%,78,28,The Woman Who Lived,12, Peter Capaldi,16
+823,Face The Raven,Sat,21-Nov-15,8:10pm,00:46:55,6.06m,23.90%,84,30,Face the Raven,12, Peter Capaldi,13
+824,Heaven Sent,Sat,28-Nov-15,8:06pm,00:54:02,6.19m,24.90%,80,27,Heaven Sent,12, Peter Capaldi,4
+825,Hell Bent,Sat,05-Dec-15,8:04pm,01:00:25,6.17m,25.70%,82,29,Hell Bent,12, Peter Capaldi,15
+826,The Husbands of River Song,Fri,25-Dec-15,5:17pm,00:56:09,7.69m,33.90%,82,8,The Husbands of River Song,12, Peter Capaldi,15
+827,The Return Of Doctor Mysterio,Sun,25-Dec-16,5:44pm,01:00:25,7.83m,31.20%,82,9,"The Return of Doctor Mysterio, by Stephen Moffat",12, Peter Capaldi,14
+828,The Pilot,Sat,15-Apr-17,7:21pm,00:49:40,6.68m,30.60%,83,10,The Pilot,12, Peter Capaldi,7
+829,Smile,Sat,22-Apr-17,7:21pm,00:45:35,5.98m,28.50%,83,23,Smile,12, Peter Capaldi,10
+830,Thin Ice,Sat,29-Apr-17,7:23pm,00:44:10,5.61m,26.50%,84,25,Thin Ice,12, Peter Capaldi,16
+831,Knock Knock,Sat,06-May-17,7:21pm,00:44:28,5.73m,27.30%,83,21,Knock Knock,12, Peter Capaldi,13
+832,Oxygen,Sat,13-May-17,7:14pm,00:44:45,5.27m,26.10%,83,26,Oxygen,12, Peter Capaldi,10
+833,Extremis,Sat,20-May-17,7:27pm,00:48:44,5.53m,26.40%,82,20,Extremis,12, Peter Capaldi,16
+834,The Pyramid At The End Of The World,Sat,27-May-17,7:51pm,00:46:04,5.79m,24.90%,82,14,The Pyramid at the End of the World,12, Peter Capaldi,12
+835,The Lie Of The Land,Sat,03-Jun-17,7:38pm,00:44:38,4.82m,20.30%,82,30,The Lie of the Land,12, Peter Capaldi,13
+836,Empress Of Mars,Sat,10-Jun-17,7:17pm,00:43:42,5.02m,25.90%,83,23,Empress of Mars,12, Peter Capaldi,18
+837,The Eaters of Light,Sat,17-Jun-17,6:45pm,00:42:20,4.73m,30.30%,81,26,The Eaters of Light,12, Peter Capaldi,16
+838,World Enough And Time,Sat,24-Jun-17,6:45pm,00:45:41,5.00m,28.20%,85,21,World Enough and Time,12, Peter Capaldi,10
+839,The Doctor Falls,Sat,01-Jul-17,6:31pm,01:00:27,5.30m,31.30%,83,16,The Doctor Falls,12, Peter Capaldi,15
+840,Twice Upon A Time,Mon,25-Dec-17,5:28pm,00:59:50,7.92m,34.00%,81,9,Twice Upon A Time,12, Peter Capaldi,22
+841,The Woman Who Fell to Earth,Sun,07-Oct-18,6:45pm,01:03:04,10.96m,45.10%,83,1,The Woman Who Fell To Earth,13, Jodie Whittaker ,19
+842,The Ghost Monument,Sun,14-Oct-18,6:55pm,00:48:47,9.00m,37.20%,82,4,The Ghost Monument,13, Jodie Whittaker ,10
+843,Rosa,Sun,21-Oct-18,6:55pm,00:49:38,8.41m,33.60%,83,4,Rosa,13, Jodie Whittaker ,17
+844,Arachnids In The UK,Sun,28-Oct-18,7:00pm,00:49:22,8.22m,32.90%,83,4,Rosa,13, Jodie Whittaker ,13
+845,The Tsuranga Conundrum,Sun,04-Nov-18,6:59pm,00:50:41,7.76m,33.00%,79,6,The Tsuranga Conundrum,13, Jodie Whittaker ,10
+846,Demons Of The Punjab,Sun,11-Nov-18,7:01pm,00:50:05,7.48m,31.40%,80,8,Demons of the Punjab,13, Jodie Whittaker ,16
+847,Kerblam!,Sun,18-Nov-18,6:30pm,00:48:50,7.46m,31.80%,81,9,Kerblam!,13, Jodie Whittaker ,11
+848,The Witchfinders,Sun,25-Nov-18,6:30pm,00:46:31,7.21m,31.50%,81,17,The Witchfinders,13, Jodie Whittaker ,13
+849,It Takes You Away,Sun,02-Dec-18,6:31pm,00:49:11,6.42m,28.30%,80,22,It Takes You Away,13, Jodie Whittaker ,12
+850,The Battle of Ranskoor Av Kolos,Sun,09-Dec-18,6:25pm,00:49:40,6.65m,29.60%,79,18,The Battle of Ranskoor Av Kolos,13, Jodie Whittaker ,9
+851,Resolution,Tue,01-Jan-19,7:00pm,01:00:00,7.13m,26.60%,80,14,Resolution,13, Jodie Whittaker ,27
